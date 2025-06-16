@@ -2,14 +2,15 @@
 layout: layout.njk
 title: "SriPedia: Home"
 permalink: index.html
+templateEngineOverride: njk,md
 ---
 <table><tr><td valign=top width=380px>
     <H3>SriPedia: Entry Pages</H3>
     <table border="0" cellpadding="5" cellspacing="0" width="100%">
     <tbody><tr>
     {% set numColumns = 4 %}
-    {% set itemsPerColumn = (links.all | length / numColumns) | round(1, 'ceil') %}
-    {% for column in links.all | batch(itemsPerColumn) %}
+    {% set itemsPerColumn = (entrylinks.all | length / numColumns) | round %}
+    {% for column in entrylinks.all | batch(itemsPerColumn) %}
     <td valign="top" style="line-height:1.5;">
     {% for link in column %}
     <a href="{{ link.url }}"{% if link.class %} class="{{ link.class }}"{% endif %}>{{ link.text }}</a><br>

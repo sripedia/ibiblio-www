@@ -1,0 +1,19 @@
+{
+  "label": "Micro Sites",
+  "links": [
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/kua", "text": "Kuresar" },
+    { "url": "/sripedia/oppiliappan/index.html", "text": "Oppiliappan group", "class": "wikipagelink" },
+    { "url": "/sripedia/ramanuja/index.html", "text": "Ramanuja group" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/sandhya", "text": "Sandhyavandanam" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/mw", "text": "Sanskrit Dictionary" },
+    { "url": "http://www.ibiblio.org/sripedia/kalidasa", "text": "Sanskrit Learning" },
+    { "url": "/sripedia/srirangasri/index.html", "text": "SriRangaSri group" },
+    { "url": "/sripedia/sundarasimham/index.html", "text": "Sundarasimham (108) ebooks" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/tpv", "text": "Tiruppavai" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/tvm", "text": "Tiruvaimozhi" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/vdesikan", "text": "Vedanta Desikan" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/sbe48", "text": "Vedanta Sutras" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/vsn", "text": "Vishnu Sahasranamam" },
+    { "url": "ebooks/vdesikan/rps/chitra.html", "text": "Yanthrams", "class": "wikipagelink" }
+  ]
+}

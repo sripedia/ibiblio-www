@@ -1,5 +1,6 @@
 {
   "label": "Concepts",
+  "type": "links",
   "links": [
     { "url": "kbhtml/Agamas.html", "text": "Agamas", "class": "wikipagelink" },
     { "url": "kbhtml/Aum.html", "text": "Aum", "class": "wikipagelink" },

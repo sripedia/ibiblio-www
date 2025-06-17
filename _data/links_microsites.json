@@ -1,5 +1,6 @@
 {
   "label": "Micro Sites",
+  "type": "links",
   "links": [
     { "url": "http://www.ibiblio.org/sripedia/ebooks/kua", "text": "Kuresar" },
     { "url": "/sripedia/oppiliappan/index.html", "text": "Oppiliappan group", "class": "wikipagelink" },
@@ -14,6 +15,6 @@
     { "url": "http://www.ibiblio.org/sripedia/ebooks/vdesikan", "text": "Vedanta Desikan" },
     { "url": "http://www.ibiblio.org/sripedia/ebooks/sbe48", "text": "Vedanta Sutras" },
     { "url": "http://www.ibiblio.org/sripedia/ebooks/vsn", "text": "Vishnu Sahasranamam" },
-    { "url": "ebooks/vdesikan/rps/chitra.html", "text": "Yanthrams", "class": "wikipagelink" }
+    { "url": "ebooks/vdesikan/rps/chitra.html", "text": "Matrix of Artistry", "class": "wikipagelink" }
   ]
 }

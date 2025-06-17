@@ -2,7 +2,7 @@
 layout: layout.njk
 title: "SriPedia: Home"
 permalink: index.html
-templateEngineOverride: njk, md
+templateEngineOverride: njk
 ---
 <table>
 <tr><td valign=top width=380px>

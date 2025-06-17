@@ -2,19 +2,20 @@
   "label": "Micro Sites",
   "type": "links",
   "links": [
-    { "url": "http://www.ibiblio.org/sripedia/ebooks/kua", "text": "Kuresar" },
-    { "url": "/sripedia/oppiliappan/index.html", "text": "Oppiliappan group", "class": "wikipagelink" },
-    { "url": "/sripedia/ramanuja/index.html", "text": "Ramanuja group" },
-    { "url": "http://www.ibiblio.org/sripedia/ebooks/sandhya", "text": "Sandhyavandanam" },
-    { "url": "http://www.ibiblio.org/sripedia/ebooks/mw", "text": "Sanskrit Dictionary" },
-    { "url": "http://www.ibiblio.org/sripedia/kalidasa", "text": "Sanskrit Learning" },
-    { "url": "/sripedia/srirangasri/index.html", "text": "SriRangaSri group" },
-    { "url": "/sripedia/sundarasimham/index.html", "text": "Sundarasimham (108) ebooks" },
-    { "url": "http://www.ibiblio.org/sripedia/ebooks/tpv", "text": "Tiruppavai" },
-    { "url": "http://www.ibiblio.org/sripedia/ebooks/tvm", "text": "Tiruvaimozhi" },
-    { "url": "http://www.ibiblio.org/sripedia/ebooks/vdesikan", "text": "Vedanta Desikan" },
-    { "url": "http://www.ibiblio.org/sripedia/ebooks/sbe48", "text": "Vedanta Sutras" },
-    { "url": "http://www.ibiblio.org/sripedia/ebooks/vsn", "text": "Vishnu Sahasranamam" },
-    { "url": "ebooks/vdesikan/rps/chitra.html", "text": "Matrix of Artistry", "class": "wikipagelink" }
+    { "url": "/sripedia/oppiliappan/index.html", "text": "Group: Oppiliappan", "class": "wikipagelink" },
+    { "url": "/sripedia/ramanuja/index.html", "text": "Group: Ramanuja" },
+    { "url": "/sripedia/srirangasri/index.html", "text": "Group: SriRangaSri" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/mw", "text": "Book: Sanskrit Dictionary" },
+
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/tpv", "text": "Book: Tiruppavai" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/tvm", "text": "Book: Tiruvaimozhi" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/sbe48", "text": "Book: Vedanta Sutras" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/vsn", "text": "Book: Vishnu Sahasranamam" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/kua", "text": "Author: Kuresar" },
+
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/vdesikan", "text": "Author: Vedanta Desikan" },
+
+    { "url": "ebooks/vdesikan/rps/chitra.html", "text": "Geometry: Matrix of Artistry", "class": "wikipagelink" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/sandhya", "text": "Ritual: Sandhyavandanam" }
   ]
 }

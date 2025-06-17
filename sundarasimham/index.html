@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF Viewer</title>
+    <style>
+        /* A basic reset and font for better looks */
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* 1. The main container that will hold our two columns */
+        .main-container {
+            display: flex; /* This is the magic! It makes children line up side-by-side. */
+            gap: 20px;     /* Adds a nice space between the sidebar and the viewer. */
+            width: 100%;
+            max-width: 1400px; /* Optional: limits width on very large screens */
+            margin: 0 auto;    /* Optional: centers the layout */
+        }
+
+        /* 2. Styling for the left sidebar */
+        #sidebar {
+            width: 300px;          /* Give the sidebar a fixed width. */
+            flex-shrink: 0;        /* Prevent the sidebar from shrinking. */
+            border: 1px solid #ccc;
+            padding: 15px;
+            height: 800px;         /* Match the height of the PDF viewer. */
+            overflow-y: auto;      /* Add a scrollbar if the list of links is too long. */
+        }
+        
+        /* Style the links in the sidebar for better readability */
+        #sidebar a {
+            display: inline-flex;
+            margin-bottom: 10px;
+            text-decoration: none;
+            color: #0056b3;
+        }
+        #sidebar a:hover {
+            text-decoration: underline;
+        }
+
+        /* 3. Styling for the right-side PDF viewer */
+        #pdf-viewer-container {
+            flex-grow: 1; /* This makes the viewer take up all remaining available space. */
+            height: 800px;
+            border: 1px solid #ccc;
+            background-color: #f0f0f0;
+        }
+
+        #pdf-viewer-container p {
+            text-align: center;
+            padding-top: 50px;
+            color: #666;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- This is our new Flexbox container -->
+    <div class="main-container">
+
+        <!-- Column 1: The Sidebar (moved inside the container) -->
+        <div id="sidebar">
+            <h2>Documents</h2>
+            <hr>
+01 <a href="#" onclick="event.preventDefault(); showPdf('1SRS.pdf');"> Sri Stuthi ( 2.9 MB )</a> <br>
+02 <a href="#" onclick="event.preventDefault(); showPdf('5BS.pdf');"> Bhu Stuthi (&nbsp; 3.3</a> <br>
+03 <a href="#" onclick="event.preventDefault(); showPdf('2GS.pdf');"> Godha Stuthi (&nbsp; 3.3</a> <br>
+04 <a href="#" onclick="event.preventDefault(); showPdf('HayaSthothram.pdf');"> Sri Hayagriva Stothram ( 3.1 MB )</a> <br>
+05 <a href="#" onclick="event.preventDefault(); showPdf('4RVG.pdf');"> Sri Raghuveera Gadhaym ( 3.4 MB )</a> <br>
+06 <a href="#" onclick="event.preventDefault(); showPdf('6SPS.pdf');"> Paramartha Stuthi</a> <br>
+07 <a href="#" onclick="event.preventDefault(); showPdf('7SDSN.pdf');"> Sri Sudarshana Ashtakam</a> <br>
+08 <a href="#" onclick="event.preventDefault(); showPdf('8SKS.pdf');"> Kaamaseekashtakam ( 1.3 MB )</a> <br>
+09 <a href="#" onclick="event.preventDefault(); showPdf('9ABA.pdf');"> Ashtabhujashtakam (0.5</a> <br>
+10 <a href="#" onclick="event.preventDefault(); showPdf('10GD.pdf');"> Garuda Dandakam (&nbsp; 1.2 MB</a> <br>
+11 <a href="#" onclick="event.preventDefault(); showPdf('11TCNM.pdf');"> Thiruchinnamaalai</a> <br>
+12 <a href="#" onclick="event.preventDefault(); showPdf('12DPAP.pdf');"> Aruttha Panchakam</a> <br>
+13 <a href="#" onclick="event.preventDefault(); showPdf('13DVC.pdf');"> Dvaya Churukku</a> <br>
+14 <a href="#" onclick="event.preventDefault(); showPdf('15VPMS.pdf');"> Vairagya Panchakam</a> <br>
+15 <a href="#" onclick="event.preventDefault(); showPdf('14DAS.pdf');"> Dasaavataara Stotram </a> <br>
+16 <a href="#" onclick="event.preventDefault(); showPdf('Dayasatakam.pdf');"> Daya Sathakam 9.5 MB</a> <br>
+17 <a href="#" onclick="event.preventDefault(); showPdf('vegasethu.pdf');"> Sri Vegasetu StOthram</a> <br>
+18 <a href="#" onclick="event.preventDefault(); showPdf('pannirunaamam.pdf');"> Panniru  Naamam</a> <br>
+19 <a href="#" onclick="event.preventDefault(); showPdf('RC.pdf');"> Ramanujar Chronology</a> <br>
+20 <a href="#" onclick="event.preventDefault(); showPdf('CSC.pdf');"> Charamashloka</a> <br>
+21 <a href="#" onclick="event.preventDefault(); showPdf('AN.pdf');"> Ahaara Niyamam</a> <br>
+22 <a href="#" onclick="event.preventDefault(); showPdf('GopalaVimsati.pdf');"> Gopaala</a> <br>
+23 <a href="#" onclick="event.preventDefault(); showPdf('NMM.pdf');"> Nava maNi Maalai</a> <br>
+24 <a href="#" onclick="event.preventDefault(); showPdf('TC.pdf');"> Thirumanthira Churukku</a> <br>
+25 <a href="#" onclick="event.preventDefault(); showPdf('srps-Intro.pdf');">Paaduka Sahasram</a> <br>
+26 <a href="#" onclick="event.preventDefault(); showPdf('AmR.pdf');">Amruta Ranjani</a> <br>
+27 <a href="#" onclick="event.preventDefault(); showPdf('PRS.pdf');">Pradhaana Satakam</a> <br>
+28 <a href="#" onclick="event.preventDefault(); showPdf('Devaraja.pdf');"> Devaraajaashtakam</a> <br>
+29 <a href="#" onclick="event.preventDefault(); showPdf('HayagrivaPanjaram.pdf');"> Sri  Hyagriva Panjaram</a> <br>
+30 <a href="#" onclick="event.preventDefault(); showPdf('GitaSHM.pdf');"> GeethaarTa Sangraham</a> <br>
+31 <a href="#" onclick="event.preventDefault(); showPdf('Adaikkalappathu.pdf');"> Adaikkalappaththu</a> <br>
+32 <a href="#" onclick="event.preventDefault(); showPdf('ASThaniyans.pdf');"> AzhagiyaSingarThaniyans</a> <br>
+33 <a href="#" onclick="event.preventDefault(); showPdf('ParaMadaBhangam.pdf');"> Paramathabhangam</a> <br>
+34 <a href="#" onclick="event.preventDefault(); showPdf('PrabhandaSaaram.pdf');"> Prabhandha Saaram</a> <br>
+35 <a href="#" onclick="event.preventDefault(); showPdf('NrusimhaPancha.pdf');"> Sri Narasimha Panchamrutham</a> <br>
+36 <a href="#" onclick="event.preventDefault(); showPdf('SVD.pdf');"> Sri Vaishnava Dinasari</a> <br>
+37 <a href="#" onclick="event.preventDefault(); showPdf('MVM.pdf');"> Mey Vitartha Maanmiyam</a> <br>
+38 <a href="#" onclick="event.preventDefault(); showPdf('GRK.pdf');"> Sri Guna Ratna Kosam</a> <br>
+39 <a href="#" onclick="event.preventDefault(); showPdf('Abheetistavam.pdf');"> Abheetisthavam</a> <br>
+40 <a href="#" onclick="event.preventDefault(); showPdf('Mummanikovai.pdf');"> Mummanikovai</a> <br>
+41 <a href="#" onclick="event.preventDefault(); showPdf('Munivahanabhogam.pdf');"> Munivahanabhogam</a> <br>
+42 <a href="#" onclick="event.preventDefault(); showPdf('42HH.pdf');"> 42nd</a> <br>
+43 <a href="#" onclick="event.preventDefault(); showPdf('43HH.pdf');"> 43rd</a> <br>
+44 <a href="#" onclick="event.preventDefault(); showPdf('44HH.pdf');"> 44th</a> <br>
+45 <a href="#" onclick="event.preventDefault(); showPdf('45HH.pdf');"> 45th</a> <br>
+46 <a href="#" onclick="event.preventDefault(); showPdf('Rigupaakarma.pdf');"> Rig Upakarma</a> <br>
+47 <a href="#" onclick="event.preventDefault(); showPdf('Yajurupaakarma.pdf');"> Yajur Upakarma</a> <br>
+48 <a href="#" onclick="event.preventDefault(); showPdf('Samaupaakarma.pdf');"> Sama Upakarma</a> <br>
+49 <a href="#" onclick="event.preventDefault(); showPdf('ASRatnam.pdf');"> Sthothra Rathna</a> <br>
+50 <a href="#" onclick="event.preventDefault(); showPdf('Amrutasvadhini.pdf');"> AmruthasvAdhini</a> <br>
+51 <a href="#" onclick="event.preventDefault(); showPdf('AdhikaraSangraham.pdf');"> AdhikAra Sangraham</a> <br>
+52 <a href="#" onclick="event.preventDefault(); showPdf('Thirumanjanam.pdf');"> Thirumanjana Kattiyam</a> <br>
+53 <a href="#" onclick="event.preventDefault(); showPdf('Sristavam.pdf');"> Sristhavam</a> <br>
+54 <a href="#" onclick="event.preventDefault(); showPdf('NachiyaarThirumozhi.pdf');"> Nacchiyar Thiruvaimozhi</a> <br>
+55 <a href="#" onclick="event.preventDefault(); showPdf('Pillayanthaadi.pdf');"> Pillaiyanthaadhi</a> <br>
+56 <a href="#" onclick="event.preventDefault(); showPdf('ChitraDesikiyamFull.pdf');"> ChitradesikIyamPDF</a> <br>
+57 <a href="#" onclick="event.preventDefault(); showPdf('57SGTD.pdf');"> SaraNAgathidhIpika</a> <br>
+58 <a href="#" onclick="event.preventDefault(); showPdf('58PPS.pdf');"> Paramapada Sopanam</a> <br>
+59 <a href="#" onclick="event.preventDefault(); showPdf('SribhaashyamVol1.pdf');"> SriBhashyam V1</a> <br>
+60 <a href="#" onclick="event.preventDefault(); showPdf('SribhashyamVol2.pdf');"> SriBhashyam V2</a> <br>
+61 <a href="#" onclick="event.preventDefault(); showPdf('SriVaikunthaSthavam.pdf');"> Sri Vaikuntha Sthavam</a> <br>
+62 <a href="#" onclick="event.preventDefault(); showPdf('Thiruppavai.pdf');"> Thiruppavai</a> <br>
+63 <a href="#" onclick="event.preventDefault(); showPdf('Tatthvapadavee.pdf');"> Thathvapadavee</a> <br>
+64 <a href="#" onclick="event.preventDefault(); showPdf('Agramanimaala.pdf');"> Agramanimala Stothram</a> <br>
+65 <a href="#" onclick="event.preventDefault(); showPdf('MangalyaSthavam.pdf');"> Mangalya Sthavam</a> <br>
+66 <a href="#" onclick="event.preventDefault(); showPdf('Hayasahasram.pdf');"> Sri Hyagriva Sahsranamam</a> <br>
+67 <a href="#" onclick="event.preventDefault(); showPdf('NarasimhAvathAram.pdf');"> Narasimha Avatharam</a> <br>
+68 <a href="#" onclick="event.preventDefault(); showPdf('Rahasyanavaneetham.pdf');"> Rahasya Navaneetham</a> <br>
+69 <a href="#" onclick="event.preventDefault(); showPdf('Rahasyapadhavee.pdf');"> Rahasya Padhavee</a> <br>
+70 <a href="#" onclick="event.preventDefault(); showPdf('Thirupalliyezhichchi.pdf');"> Thirupalliyezhichchi</a> <br>
+71 <a href="#" onclick="event.preventDefault(); showPdf('SgtDesikaPrabandham.pdf');"> SaraNagathi (Tamil)</a> <br>
+72 <a href="#" onclick="event.preventDefault(); showPdf('dEhaLisaSthuthi.pdf');"> Dehaleesha Stuthi</a> <br>
+73 <a href="#" onclick="event.preventDefault(); showPdf('Purushasuktham.pdf');"> Purusha Suktam</a> <br>
+74 <a href="#" onclick="event.preventDefault(); showPdf('Desikadarsanasaarasangraham.pdf');">  Desika Darsanam</a> <br>
+75 <a href="#" onclick="event.preventDefault(); showPdf('bhagavadhyanasopanam.pdf');">  Bhagavadhyana Sopanam</a> <br>
+76 <a href="#" onclick="event.preventDefault(); showPdf('SubhashtaNeevi.pdf');">  Subhaashita Neevi</a> <br>
+77 <a href="#" onclick="event.preventDefault(); showPdf('Naimisaranyam.pdf');">  Naimisaaranyam</a> <br>
+78 <a href="#" onclick="event.preventDefault(); showPdf('aparyApthAmrutha.pdf');"> Aparyaapthaamrutha Stothram</a> <br>
+79 <a href="#" onclick="event.preventDefault(); showPdf('DayinMatham.pdf');">  A day in Sri Matham</a> <br>
+80 <a href="#" onclick="event.preventDefault(); showPdf('Thirupallandu.pdf');">  Thirupallandu</a> <br>
+81 <a href="#" onclick="event.preventDefault(); showPdf('Thiruvellur.pdf');">  Thiruvellur</a> <br>
+82 <a href="#" onclick="event.preventDefault(); showPdf('VedamsUpanishads.pdf');">  Vedams and Upanishads</a> <br>
+83 <a href="#" onclick="event.preventDefault(); showPdf('Thiruviruththam.pdf');">  Thiruviruththam</a> <br>
+84 <a href="#" onclick="event.preventDefault(); showPdf('Thiruvaasiriyam.pdf');">  Thiruvaasiriyam</a> <br>
+85 <a href="#" onclick="event.preventDefault(); showPdf('PeriyaThiru.pdf');">  Periya Thiruvandhaathi</a> <br>
+86 <a href="#" onclick="event.preventDefault(); showPdf('NammThiruvai.pdf');">  Thiruvaimozhi</a> <br>
+87 <a href="#" onclick="event.preventDefault(); showPdf('DesikaSahasraNamam.pdf');">  Desika Sahasranaamam</a> <br>
+88 <a href="#" onclick="event.preventDefault(); showPdf('Sathadhushani.pdf');">  Satha Dhushani</a> <br>
+89 <a href="#" onclick="event.preventDefault(); showPdf('TMKalaapam.pdf');">  Thathva Muktha Kalaapam</a> <br>
+90 <a href="#" onclick="event.preventDefault(); showPdf('Chillarairahasyam.pdf');">  Chillarai Rahasyangal</a> <br>
+91 <a href="#" onclick="event.preventDefault(); showPdf('SRTS.pdf');">  Srimath Rahasya Thraya Saaram</a> <br>
+92 <a href="#" onclick="event.preventDefault(); showPdf('RamanusaNutrandhadi.pdf');">  Iraamanusa Nutrandhaadhi</a> <br>
+93 <a href="#" onclick="event.preventDefault(); showPdf('Shodasaayudha.pdf');">  SriSudarshanaVaibhavam</a> <br>
+94 <a href="#" onclick="event.preventDefault(); showPdf('VenkatesaVaibhavam.pdf');">  SriVenkatesaVaibhavam</a> <br>
+95 <a href="#" onclick="event.preventDefault(); showPdf('VABrahmanda.pdf');">  SriVenkatesa Ashtothram (Brahmanda)</a> <br>
+96 <a href="#" onclick="event.preventDefault(); showPdf('VAVaraha.pdf');">  SriVenkatesa Ashtothram (Varaha)</a> <br>
+97 <a href="#" onclick="event.preventDefault(); showPdf('VSN1.pdf');">  Sri Vishnu Sahasranamam V1</a> <br>
+98 <a href="#" onclick="event.preventDefault(); showPdf('VSN2.pdf');">  Sri Vishnu Sahasranamam V2</a> <br>
+99 <a href="#" onclick="event.preventDefault(); showPdf('VSN3.pdf');">  Sri Vishnu Sahasranamam V3</a> <br>
+100 <a href="#" onclick="event.preventDefault(); showPdf('LakshmiSahasram.pdf');">  Sri Lakshmi Sahasram</a> <br>
+101 <a href="#" onclick="event.preventDefault(); showPdf('VenkSahas.pdf');">  Sri Venkatesa Sahasranaamam</a> <br>
+102 <a href="#" onclick="event.preventDefault(); showPdf('srpsy.pdf');">  Sri Paduka Sahasra Yanthrams</a> <br>
+103 <a href="#" onclick="event.preventDefault(); showPdf('TND.pdf');">  Thirunedumthaandakam</a> <br>
+104 <a href="#" onclick="event.preventDefault(); showPdf('Thirukurunthandakam.pdf');">  Thirukurnthaandakam</a> <br>
+105 <a href="#" onclick="event.preventDefault(); showPdf('T7K.pdf');"> ThiruvezhukUtrirukkai</a> <br>
+106 <a href="#" onclick="event.preventDefault(); showPdf('ManthraPushpam.pdf');"> Manthra Pushpam</a> <br>
+107 <a href="#" onclick="event.preventDefault(); showPdf('VirodhaParihaaram.pdf');"> Virodha Pariharam</a> <br>
+108 <a href="#" onclick="event.preventDefault(); showPdf('OppiliappanVaibhavam.pdf');"> Oppiliappan Vaibhavam</a> <br>
+        </div>
+
+        <!-- Column 2: The PDF Viewer (moved inside the container) -->
+        <div id="pdf-viewer-container">
+            <p>Please select a document from the list on the left.</p>
+        </div>
+
+    </div> <!-- end of .main-container -->
+
+
+    <script>
+        // Your JavaScript function remains exactly the same. No changes needed here.
+        function showPdf(pdfFileName) {
+            const container = document.getElementById('pdf-viewer-container');
+            
+            // 1. Clear any previous content
+            container.innerHTML = '';
+
+            // 2. Create a new <embed> element
+            const pdfEmbed = document.createElement('embed');
+
+            // 3. Set its attributes
+            pdfEmbed.src = pdfFileName;
+            pdfEmbed.type = 'application/pdf';
+            pdfEmbed.width = '100%';
+            pdfEmbed.height = '100%';
+
+            // 4. Append the new <embed> element to our container
+            container.appendChild(pdfEmbed);
+        }
+    </script>
+
+</body>
+</html>

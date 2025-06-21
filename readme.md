@@ -8,5 +8,14 @@ This makes this repo an html top cap layer points to all the right places
 
 11ty is used to bring about a more streamlined look&feel across all the different subsections of the site.
 
+## usage
+
+```
+npm run build
+```
+
+```
+rsync -avz _site/ sripedia@login.ibiblio.org:html/
+
 ## working on
 - ebooks/suprabatham/suprabatham.md

@@ -1,0 +1,56 @@
+Of course. Adding a container `<div>` with a bottom margin is a great way to visually separate the verses.
+
+Here is the revised and final prompt summary that incorporates this new rule.
+
+***
+
+### Prompt for Sanskrit Verse Formatting (Final Version)
+
+**Objective:** To format one or more given Sanskrit verses with their word-by-word English translation into a specific, vertically aligned HTML structure.
+
+**Instructions:**
+
+The following rules must be applied consistently to every verse provided in the input.
+
+1.  **Verse Numbering:**
+    *   Precede each formatted verse block with its corresponding verse number (e.g., `Verse 1`, `Verse 2`) on a separate line.
+
+2.  **Translation:**
+    *   Provide a concise, word-for-word English meaning for each Sanskrit word.
+
+3.  **Overall HTML Structure:**
+    *   **Verse Container:** Each complete verse block (which includes its Verse Number, all Sanskrit `<pre>` tags, and all English `<pre>` tags) must be wrapped in a single `<div>` element.
+    *   **Container Style:** This outer `<div>` must have the style `margin-bottom: 50px;`.
+    *   **Content Tags:** Inside the `<div>`, use `<pre>` tags for the Sanskrit and English lines.
+
+4.  **`<pre>` Tag Styling:**
+    *   The `<pre>` tag for the Sanskrit text must have the style `color:#ff0000; font-family: monospace; white-space: pre;`.
+    *   The `<pre>` tag for the English text must have the style `color:#000000; font-family: monospace; white-space: pre;`.
+
+5.  **Critical Alignment Rule:**
+    *   The first character of each Sanskrit word must be perfectly aligned vertically with the first character of its English meaning on the line below it.
+    *   To achieve this, meticulously add the correct number of spaces between words on *both* the Sanskrit and English lines, working from left to right for each pair of words.
+
+**Example of a Correctly Formatted Multi-Verse Output:**
+
+<div style="margin-bottom: 50px;">
+Verse 1
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">kausalyA     suprajA      Raama    poorvA     sandhyA            pravartatE</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">Kausalya's   noble son    O Rama   eastern    dawn (twilight)    is breaking forth</pre>
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">uttishTha    narasArdUla          kartavyam           daivam    Ahnikam</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">Arise        O tiger among men    must be performed   divine    daily rites</pre>
+</div>
+
+<div style="margin-bottom: 50px;">
+Verse 2
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">uttishThOttishTha   gOvinda   uttishTha   garuDadhvaja</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">Arise, Arise        O Govinda Arise       O one with Garuda on your flag</pre>
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">uttishTha   kamalAkAnta            trailOkyam             mangaLam         kuru</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">Arise       O beloved of Kamala    for the three worlds   auspiciousness   do/make</pre>
+</div>
+
+6. **Output Format:**
+    *   The output must be provided within a markdown bloc where each line in the html is on its own line making iteasy to read the html paragraph in a code editor
+
+
+---

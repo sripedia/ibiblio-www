@@ -40,12 +40,12 @@ Srinivasan Sriram
       <td width="50%" valign="top" style="padding-left:15px">
       <ul>
 
-      <li><a href="./suprabatham/suprabatham.html">Suprabatham</a></li>
+      <li><a href="suprabatham.html">Suprabatham</a></li>
 
       <li><a href="stotram.html">Stotram</a></li>
 
       <li><a href="prapatti.html">Prapatti</a></li>
-      <li><a href="mangalasasanams.html">Mangalasasanms</a></li>
+      <li><a href="mangalasasanams.html">Mangalasasanams</a></li>
       </ul>
 
 

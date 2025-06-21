@@ -1,0 +1,918 @@
+{
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "kausalyA", "english": "Kausalya's" },
+            { "sanskrit": "suprajA", "english": "noble son" },
+            { "sanskrit": "Raama", "english": "O Rama" },
+            { "sanskrit": "poorvA", "english": "the eastern" },
+            { "sanskrit": "sandhyA", "english": "twilight (dawn)" },
+            { "sanskrit": "pravartatE", "english": "is breaking forth" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "uttishTha", "english": "Arise" },
+            { "sanskrit": "naraSArdUla", "english": "O tiger among men" },
+            { "sanskrit": "kartavyam", "english": "must be performed" },
+            { "sanskrit": "daivam", "english": "the divine" },
+            { "sanskrit": "Ahnikam", "english": "daily rites" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "uttishThOttishTha", "english": "Arise, Arise" },
+            { "sanskrit": "gOvinda", "english": "O Govinda" },
+            { "sanskrit": "uttishTha", "english": "Arise" },
+            { "sanskrit": "garuDadhvaja", "english": "O one with Garuda on your flag" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "uttishTha", "english": "Arise" },
+            { "sanskrit": "kamalAkAnta", "english": "O beloved of Kamala (Lakshmi)" },
+            { "sanskrit": "trailOkyam", "english": "for the three worlds" },
+            { "sanskrit": "mangaLam", "english": "auspiciousness" },
+            { "sanskrit": "kuru", "english": "make" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "mAta:", "english": "O Mother" },
+            { "sanskrit": "samasta-jagatAm", "english": "of all worlds" },
+            { "sanskrit": "madhukaiTabhArE:", "english": "of the enemy of Madhu and Kaitabha (Vishnu)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vakshO-vihAriNi", "english": "O one who resides on the chest" },
+            { "sanskrit": "manOhara-divya-mUrtE", "english": "O one of captivating divine form" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-svAmini", "english": "O mistress of the Lord" },
+            { "sanskrit": "Sritajana-priya-dAna-SeelE", "english": "O one inclined to give what is dear to Your dependents" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa-dayitE", "english": "O beloved of Sri Venkatesa" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "tava", "english": "To You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" },
+            { "sanskrit": "aravinda-lOchanE", "english": "O lotus-eyed one" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhavatu", "english": "may it be" },
+            { "sanskrit": "prasanna-mukha-candramaNDalE", "english": "O one with a pleasing face like the moon" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vidhi-Sankara-indra-vanitAbhih", "english": "by the wives of Brahma, Shankara, and Indra" },
+            { "sanskrit": "arcitE", "english": "O worshipped one" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vRusha-saila-nAtha-dayitE", "english": "O beloved of the Lord of Vrusha Hill" },
+            { "sanskrit": "dayAnidhE", "english": "O treasure of compassion" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "atryAdi-sapta-Rishayah", "english": "Atri and the other seven sages" },
+            { "sanskrit": "samupAsya", "english": "having well performed" },
+            { "sanskrit": "sandhyAm", "english": "the morning prayers" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "AkASa-sindhu-kamalAni", "english": "lotuses from the celestial Ganga" },
+            { "sanskrit": "manoharANi", "english": "the beautiful ones" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "AadAya", "english": "having taken" },
+            { "sanskrit": "pAdayugam", "english": "Your pair of feet" },
+            { "sanskrit": "arcayitum", "english": "to worship" },
+            { "sanskrit": "prapannAh", "english": "have arrived" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SEshAdri-SEkhara-vibhO", "english": "O Lord, the crest-jewel of Seshadri" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "pancAnana-abjabhava-shaNmukha-vAsavAdhyAh", "english": "The five-faced Shiva, lotus-born Brahma, six-faced Kartikeya, Indra and others" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "traivikramAdi-caritam", "english": "Your deeds as Trivikrama and others" },
+            { "sanskrit": "vibudhAh", "english": "the gods" },
+            { "sanskrit": "stuvanti", "english": "are praising" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhAshApatih", "english": "Brihaspati, the lord of speech" },
+            { "sanskrit": "paThati", "english": "is reading" },
+            { "sanskrit": "vAsara-Suddhim", "english": "the day's almanac" },
+            { "sanskrit": "ArAt", "english": "nearby" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SEshAdri-SEkhara-vibhO", "english": "O Lord, the crest-jewel of Seshadri" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 7,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "Iihat-praphulla-sarasIruha", "english": "From the slightly blossomed lotuses" },
+            { "sanskrit": "nArikEla-pUgadrumAdi", "english": "from coconut, areca-nut and other trees" },
+            { "sanskrit": "sumanOhara-pAlikAnAm", "english": "from the beautiful rows of flowers" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aavAti", "english": "blows" },
+            { "sanskrit": "mandham", "english": "gently" },
+            { "sanskrit": "anilah", "english": "the breeze" },
+            { "sanskrit": "saha", "english": "with" },
+            { "sanskrit": "divya-gandhaih", "english": "divine fragrances" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SEshAdri-SEkhara-vibhO", "english": "O Lord, the crest-jewel of Seshadri" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 8,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "unmeelya", "english": "Opening" },
+            { "sanskrit": "nEtrayugam", "english": "their pair of eyes" },
+            { "sanskrit": "uttama-panjarasthAh", "english": "the parrots in the best cages" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "pAtrAvaSishTa", "english": "the remnants in the vessel" },
+            { "sanskrit": "kadalee-phala-pAyasAni", "english": "of banana fruits and sweet pudding" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhuktvA", "english": "having eaten" },
+            { "sanskrit": "saleelam", "english": "playfully" },
+            { "sanskrit": "atha", "english": "then" },
+            { "sanskrit": "kEli-SukhAh", "english": "the pet parrots" },
+            { "sanskrit": "paThanti", "english": "are chanting" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SEshAdri-SEkhara-vibhO", "english": "O Lord, the crest-jewel of Seshadri" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 9,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "tantrI-prakarsha-madhura-svanayA", "english": "With the sweet notes from the excellent strings" },
+            { "sanskrit": "vipancyA", "english": "of his Veena" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "gAyati", "english": "is singing" },
+            { "sanskrit": "ananta-caritam", "english": "Your endless deeds" },
+            { "sanskrit": "tava", "english": "Your" },
+            { "sanskrit": "nAradOpi", "english": "Narada also" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhAshA-samagram", "english": "in comprehensive language" },
+            { "sanskrit": "asakRt", "english": "repeatedly" },
+            { "sanskrit": "karacAra-ramyam", "english": "with delightful finger movements" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SEshAdri-SEkhara-vibhO", "english": "O Lord, the crest-jewel of Seshadri" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 10,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "bhRungAvaLih", "english": "The swarm of bees" },
+            { "sanskrit": "ca", "english": "and" },
+            { "sanskrit": "makaranda-rasAnuviddha", "english": "filled with the juice of nectar" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "jhankAra-gIta-ninadaih", "english": "with humming musical sounds" },
+            { "sanskrit": "saha", "english": "along with" },
+            { "sanskrit": "sEvanAya", "english": "for service" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "niryAti", "english": "are coming out" },
+            { "sanskrit": "upAnta-sarasI", "english": "from the nearby ponds" },
+            { "sanskrit": "kamala-udarEbhyah", "english": "from the hearts of lotuses" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SEshAdri-SEkhara-vibhO", "english": "O Lord, the crest-jewel of Seshadri" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 11,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "yOshA-gaNEna", "english": "By the groups of women" },
+            { "sanskrit": "vara-dadhni", "english": "the excellent curds" },
+            { "sanskrit": "vimathyamAnE", "english": "being churned" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ghOshAlayEshu", "english": "in the abodes of the cowherds" },
+            { "sanskrit": "dadhi-manthana-tIvra-ghOshAh", "english": "the loud sounds of churning curd" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "rOshAt", "english": "As if with anger" },
+            { "sanskrit": "kalim", "english": "a quarrel" },
+            { "sanskrit": "vidadhatE", "english": "are creating" },
+            { "sanskrit": "kakubhah", "english": "the directions" },
+            { "sanskrit": "ca", "english": "and" },
+            { "sanskrit": "kumbhAh", "english": "the pots" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SEshAdri-SEkhara-vibhO", "english": "O Lord, the crest-jewel of Seshadri" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 12,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "padmESamitra", "english": "friend of the lord of lotuses (the Sun)" },
+            { "sanskrit": "Satapatra-gatAli-vargAh", "english": "the swarms of bees on the lotuses" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "hartum", "english": "to steal" },
+            { "sanskrit": "Sriyam", "english": "the beauty" },
+            { "sanskrit": "kuvalayasya", "english": "of the blue lotus" },
+            { "sanskrit": "nijAnga-lakshmyA", "english": "with the beauty of their own bodies" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhErI-ninAdam-iva", "english": "like the sound of a war drum" },
+            { "sanskrit": "bibhrati", "english": "they are making" },
+            { "sanskrit": "tIvra-nAdam", "english": "a loud sound" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SEshAdri-SEkhara-vibhO", "english": "O Lord, the crest-jewel of Seshadri" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 13,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "SrImann", "english": "O glorious one" },
+            { "sanskrit": "abhIshTa-varada", "english": "O granter of desired boons" },
+            { "sanskrit": "akhila-lOka-bandhO", "english": "O kinsman of all the worlds" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-SrInivAsa", "english": "O Abode of Sri (Lakshmi)" },
+            { "sanskrit": "jagat-Eka-dayaika-sindhO", "english": "O the one ocean of mercy for the universe" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrIdEvatA-gRha-bhujAntara-divya-mUrtE", "english": "O one with a divine form whose chest is the abode for Goddess Sri" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 14,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "SrI-svAmi-pushkariNikAplava-nirmalAngAh", "english": "Those with bodies purified by bathing in Sri Swami Pushkarini" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrEyOrthinah", "english": "Those seeking prosperity" },
+            { "sanskrit": "hara-virinci-sanandanAdyAh", "english": "Shiva, Brahma, Sanandana and others" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "dvArE", "english": "at the door" },
+            { "sanskrit": "vasanti", "english": "are waiting" },
+            { "sanskrit": "vara-vEtra-hatOttamAngAh", "english": "their heads touched by the excellent staff (of the gatekeeper)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 15,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "SrI-SEsha-saila", "english": "Sri Seshasaila" },
+            { "sanskrit": "garuDAchala", "english": "Garudachala" },
+            { "sanskrit": "vEnkaTAdri", "english": "Venkatadri" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "nArAyaNAdri", "english": "Narayanadri" },
+            { "sanskrit": "vRshabhAdri", "english": "Vrishabhadri" },
+            { "sanskrit": "mukhyAm", "english": "and the main hills" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aakhyAm", "english": "the names" },
+            { "sanskrit": "tvadIya-vasatEh", "english": "of Your abode" },
+            { "sanskrit": "aniSam", "english": "constantly" },
+            { "sanskrit": "vadanti", "english": "they are chanting" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 16,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sEvAparAh", "english": "Those devoted to service" },
+            { "sanskrit": "Siva-surESa-kRSAnu-dharma", "english": "Shiva, Indra, Agni, Yama" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "rakshOmbunAtha-pavamAna-dhanAdhinAthAh", "english": "Nirriti, Varuna, Vayu, and Kubera" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "baddhAnjali", "english": "with folded hands" },
+            { "sanskrit": "pravilasan", "english": "shining" },
+            { "sanskrit": "nija-SIrsha-dESAh", "english": "at the place of their own heads" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 17,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "dhATIshu", "english": "In their movements (or attacks)" },
+            { "sanskrit": "tE", "english": "Your" },
+            { "sanskrit": "vihagarAja", "english": "king of birds (Garuda)" },
+            { "sanskrit": "mRgAdhirAja", "english": "king of beasts (Lion)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "nAgAdhirAja", "english": "king of serpents (Adisesha)" },
+            { "sanskrit": "gajarAja", "english": "king of elephants (Airavata)" },
+            { "sanskrit": "hayAdhirAjAh", "english": "king of horses (Uchhaishravas)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "svasvAdhikAra-mahimAdikam", "english": "the glory of their respective roles and more" },
+            { "sanskrit": "arthayantE", "english": "are requesting" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 18,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sUryEndu-bhauma-budha-vAkpati-kAvya-sauri", "english": "Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "svarbhAnu-kEtu-divishat-parishat-pradhAnAh", "english": "Rahu, Ketu, and the chiefs of the assembly of gods" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "tvad-dAsa-dAsa-caramAvadhi-dAsa-dAsAh", "english": "are servants of Your servants down to the last servant" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 19,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "tvat-pAda-dhULi-bharita-sphuritOttamAngAh", "english": "Those whose heads are radiant, filled with the dust of Your feet" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "svargApavarga-nirapEksha-nijAntarangAh", "english": "Those whose hearts are indifferent to heaven and liberation" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "kalpAgama-AkalanayA", "english": "by the thought of the coming of the next Kalpa" },
+            { "sanskrit": "AkulatAm", "english": "distress" },
+            { "sanskrit": "labhantE", "english": "they attain" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 20,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "tvad-gOpura-agra-SikharANi", "english": "The peaks of Your temple towers" },
+            { "sanskrit": "nirIkshamAnAh", "english": "gazing upon" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "svargApavarga-padavIm", "english": "the path to heaven and liberation" },
+            { "sanskrit": "paramAm", "english": "the highest" },
+            { "sanskrit": "Srayantah", "english": "those who have attained" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "martyAh", "english": "mortals" },
+            { "sanskrit": "manushya-bhuvanE", "english": "in the world of humans" },
+            { "sanskrit": "matim", "english": "the desire" },
+            { "sanskrit": "ASrayantE", "english": "take refuge in" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 21,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "SrI-bhUmi-nAyaka", "english": "O Lord of Sri and Bhumi" },
+            { "sanskrit": "dayAdi-guNAmRta-abdhE", "english": "O ocean of the nectar of qualities like compassion" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "dEvAdhidEva", "english": "O God of gods" },
+            { "sanskrit": "jagat-Eka-SaraNya-mUrtE", "english": "O the form who is the sole refuge of the universe" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrImann", "english": "O glorious one" },
+            { "sanskrit": "anantha-garuDAdibhih", "english": "by Ananta, Garuda and others" },
+            { "sanskrit": "arcitAnghrE", "english": "O one whose feet are worshipped" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 22,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "SrI-PadmanAbha", "english": "O Padmanabha" },
+            { "sanskrit": "PurushOttama", "english": "O Supreme Person" },
+            { "sanskrit": "vAsudEva", "english": "O Vasudeva" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vaikuNTha", "english": "O Lord of Vaikuntha" },
+            { "sanskrit": "mAdhava", "english": "O Madhava" },
+            { "sanskrit": "janArdana", "english": "O Janardana" },
+            { "sanskrit": "cakrapANE", "english": "O wielder of the discus" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrIvatsa-cihna", "english": "O one with the Srivatsa mark" },
+            { "sanskrit": "SaraNAgata-pArijAta", "english": "O Parijata tree for the surrendered" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 23,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "kandarpa-darpa-hara", "english": "O vanquisher of the pride of Kama" },
+            { "sanskrit": "sundara-divya-mUrtE", "english": "O one with a beautiful divine form" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "kAntA-kucAmburuha-kuTmalalOladRshTE", "english": "O one whose eager glances are on the lotus-bud like breasts of your beloved" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "kalyANa-nirmala-guNAkara", "english": "O mine of auspicious and pure qualities" },
+            { "sanskrit": "divya-kIrtE", "english": "O one with divine fame" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 24,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "mInAkRtE", "english": "O one with the form of a fish" },
+            { "sanskrit": "kamaTha", "english": "O tortoise" },
+            { "sanskrit": "kOla", "english": "O boar" },
+            { "sanskrit": "nRsimha", "english": "O Man-lion" },
+            { "sanskrit": "varNin", "english": "O celibate student (Vamana)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "svAmin", "english": "O Lord" },
+            { "sanskrit": "paraSvatha-tapOdhana", "english": "O ascetic with the axe (Parasurama)" },
+            { "sanskrit": "rAmacandra", "english": "O Ramachandra" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sEshAmsa-rAma", "english": "O Rama who is an incarnation of Sesha (Balarama)" },
+            { "sanskrit": "yadunandana", "english": "O delight of the Yadus (Krishna)" },
+            { "sanskrit": "kalki-rUpa", "english": "O one in the form of Kalki" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 25,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ElA-lavanga-ghanasAra-sugandhi-tIrtham", "english": "The holy water scented with cardamom, cloves, and camphor" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "divyam", "english": "divine" },
+            { "sanskrit": "viyat-sariti", "english": "from the celestial river" },
+            { "sanskrit": "hEma-ghaTEshu", "english": "in golden pots" },
+            { "sanskrit": "pUrNam", "english": "filled" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "dhRtvAdya", "english": "Holding today" },
+            { "sanskrit": "vaidika-SikhAmaNayah", "english": "the crest-jewels of Vedic scholars" },
+            { "sanskrit": "prahRshTAh", "english": "overjoyed" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "tishThanti", "english": "are standing" },
+            { "sanskrit": "vEnkaTapatE", "english": "O Lord of Venkata" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 26,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "bhAsvAn", "english": "The sun" },
+            { "sanskrit": "udEti", "english": "is rising" },
+            { "sanskrit": "vikacAni", "english": "have blossomed" },
+            { "sanskrit": "sarOruhANi", "english": "the lotuses" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sampUrayanti", "english": "are filling" },
+            { "sanskrit": "ninadaih", "english": "with their sounds" },
+            { "sanskrit": "kakubhah", "english": "the directions" },
+            { "sanskrit": "vihangAh", "english": "the birds" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vaishNavAh", "english": "The Sri Vaishnavas" },
+            { "sanskrit": "satatam", "english": "always" },
+            { "sanskrit": "arthita-mangalAh", "english": "desiring auspiciousness for you" },
+            { "sanskrit": "tE", "english": "they" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "dhAma-ASrayanti", "english": "are taking refuge in Your abode" },
+            { "sanskrit": "tava", "english": "Your" },
+            { "sanskrit": "vEnkaTa", "english": "O Venkata" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 27,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "brahmAdayah", "english": "Brahma and others" },
+            { "sanskrit": "suravarAh", "english": "the best of gods" },
+            { "sanskrit": "samaharshayastE", "english": "with the great sages" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "santah", "english": "the good saints" },
+            { "sanskrit": "sanandana-mukhAh", "english": "headed by Sanandana" },
+            { "sanskrit": "tvatha", "english": "and also" },
+            { "sanskrit": "yOgi-varyAh", "english": "the best of Yogis" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "dhAmAntikE", "english": "near Your abode" },
+            { "sanskrit": "tava", "english": "Your" },
+            { "sanskrit": "hi", "english": "indeed" },
+            { "sanskrit": "mangala-vastu-hastAh", "english": "with auspicious items in their hands" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 28,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "lakshmI-nivAsa", "english": "O abode of Lakshmi" },
+            { "sanskrit": "niravadya-guNaika-sindhO", "english": "O the one ocean of flawless qualities" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "samsAra-sAgara-samuttaraNaika-sEtO", "english": "O the one bridge to cross the ocean of worldly existence" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vEdAnta-vEdya", "english": "O one to be known through Vedanta" },
+            { "sanskrit": "nija-vaibhava", "english": "O one of true glory" },
+            { "sanskrit": "bhakta-bhOgya", "english": "O one who is enjoyed by devotees" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAcalapatE", "english": "O Lord of Sri Venkatachala" },
+            { "sanskrit": "tava", "english": "to You" },
+            { "sanskrit": "suprabhAtam", "english": "a good morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 29,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ittham", "english": "Thus" },
+            { "sanskrit": "vRshAcalapatEh", "english": "of the Lord of Vrishachala" },
+            { "sanskrit": "iha", "english": "this" },
+            { "sanskrit": "suprabhAtam", "english": "Suprabhatam" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "yE", "english": "those" },
+            { "sanskrit": "mAnavAh", "english": "humans" },
+            { "sanskrit": "prati-dinam", "english": "every day" },
+            { "sanskrit": "paThitum", "english": "to recite" },
+            { "sanskrit": "pravRttAh", "english": "who are engaged" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "tEshAm", "english": "For them" },
+            { "sanskrit": "prabhAta-samayE", "english": "at the time of dawn" },
+            { "sanskrit": "smRtir-anga-bhAjAm", "english": "remembrance of the Lord arises" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "prajnAm", "english": "wisdom" },
+            { "sanskrit": "parArtha-sulabhAm", "english": "that which easily attains the supreme goal" },
+            { "sanskrit": "paramAm", "english": "the highest" },
+            { "sanskrit": "prasUtE", "english": "it bestows" }
+          ]
+        }
+      ]
+    }
+  ]
+}

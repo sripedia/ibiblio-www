@@ -18,7 +18,7 @@ npm run build
 rsync -avz _site/ sripedia@login.ibiblio.org:html/
 
 ## working on
-- ebooks/suprabatham/stotram.md
+- ebooks/suprabatham/suprabatham.md (after verse 15/16)
 
 
 kausalyA   suprajA   Raama  poorvA  sandhyA         pravartatE

@@ -134,6 +134,22 @@ Verse 16
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">tadpAdapadmayugalam    parigRhya     pANinA    prabOdhamanjalivirachayya    bhaktyA     </pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">that lotus-feet pair   having held   by hand   the awakening-anjali having made   with devotion</pre>
 </div>
+### Formatted Verse 1.16
+
+
+<div style="margin-bottom: 50px;">
+Verse 1.16
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">sEvAparA:          siva     surEsa    krusAnu     dharma-     rakshOmbunAtha    pavamAna    dhanAdhinAthA:</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">You are engaged   S       the Lord  Arson       Dharma      Protector of Dharma  The great Purifier  The Lord of Wealth</pre>
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">baddhAnjali    pravilasan    nija     seersha     dEsA:</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">With folded     shining   Your     own head    at Your abode</pre>
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">SrI       vEnkaTaacalapatE!    tava    suprabhAtam</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">O Lord    of Venkata Hills   Your    morning</pre>
+</div>
+
+
+
+
 <div style="margin-bottom: 50px;">
 Verse 17
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">tvatpAdadhUlibharita         sphuritOttamAngAH             svargApavarganirapEkshanijAntarangAH    </pre>
@@ -225,4 +241,16 @@ Verse 29
 <pre style="color:#000000; font-family: monospace; white-space: pre;">The strings'  excellence   with sweet-sounding  veena      sings of the endless   deeds      your   Narada also</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">bhAshA        samagram   asakRt       kara   chAru        ramyam       SEshAdri   SEkhara   vibhO    tava     suprabhAtam </pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">With speech   complete   repeatedly   hand   beautifully  and lovely   Seshadri   peak's    O Lord   to you   good morning</pre>
+</div>
+
+<div style="margin-bottom: 30px;">
+Verse 15
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">SrIsEshasaila      garuDaachala     vEnkaTaadri-</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">Sri Sesha mountain  Garuda mountain  Venkata mountain-</pre>
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">nArAyaNaadri        vrushabhAdri         mukhyAm</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">Narayana mountain   Vrishabha mountain   and the chief among them</pre>
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">aakhyAm    tvadIya vasatEranisam      vadanti</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">The names  Your    of the abode, constantly they say</pre>
+<pre style="color:#ff0000; font-family: monospace; white-space: pre;">SrI vEnkaTaacalapatE tava suprabhAtam</pre>
+<pre style="color:#000000; font-family: monospace; white-space: pre;">O Sri Lord of Venkatachala Your good morning</pre>
 </div>

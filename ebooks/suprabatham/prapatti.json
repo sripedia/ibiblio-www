@@ -1,0 +1,540 @@
+{
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "IsAnAm", "english": "Of the Lords" },
+            { "sanskrit": "jagatOsya", "english": "of this universe" },
+            { "sanskrit": "vEnkaTapateh", "english": "of Venkatapati" },
+            { "sanskrit": "vishNOh", "english": "of Vishnu" },
+            { "sanskrit": "parAm", "english": "the supreme" },
+            { "sanskrit": "prEyasIm", "english": "beloved" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "tad-vakshas-sthala-nitya-vAsa-rasikAm", "english": "She who delights in eternally residing on His chest" },
+            { "sanskrit": "tat-kshAnti-samvardhinIm", "english": "She who enhances His quality of forbearance" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "padmAlankRta-pANi-pallava-yugAm", "english": "Whose sprout-like pair of hands are adorned with lotuses" },
+            { "sanskrit": "padmAsanasthAm", "english": "seated on a lotus" },
+            { "sanskrit": "Sriyam", "english": "to Sri (Lakshmi)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vAtsalyAdi-guNojjvalAm", "english": "radiant with qualities like motherly affection" },
+            { "sanskrit": "bhagavatIm", "english": "the divine one" },
+            { "sanskrit": "vandE", "english": "I bow" },
+            { "sanskrit": "jagan-mAtaram", "english": "to the mother of the universe" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "SrIman", "english": "O glorious one" },
+            { "sanskrit": "kRpA-jala-nidhE", "english": "O ocean of mercy" },
+            { "sanskrit": "kRta-sarva-lOka", "english": "O creator of all worlds" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sarvajna", "english": "O all-knowing one" },
+            { "sanskrit": "Saktha", "english": "O all-powerful one" },
+            { "sanskrit": "nata-vatsala", "english": "O one affectionate to those who bow" },
+            { "sanskrit": "sarva-SEshin", "english": "O Lord of all" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "svAmin", "english": "O Master" },
+            { "sanskrit": "su-SIla", "english": "O one of noble character" },
+            { "sanskrit": "su-labha", "english": "O easily accessible one" },
+            { "sanskrit": "ASrita-pArijAta", "english": "O wish-fulfilling tree for the dependent" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "AnUpurArpita-sujAta-sugandhi-pushpa", "english": "By the well-born, fragrant flowers offered up to the anklets" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "saurabhya-saurabha-karau", "english": "the two feet that make the fragrance more fragrant" },
+            { "sanskrit": "sama-sannivESau", "english": "which are placed perfectly together" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "saumyau", "english": "the two gentle feet" },
+            { "sanskrit": "sadA-anubhavanE-api", "english": "even when always experienced" },
+            { "sanskrit": "nava-anubhAvyau", "english": "are ever new to experience" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sadya-vikAsi-samuditvara-sAndra-rAga", "english": "of a freshly blossomed, intensely colored" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "saurabhya-nirbhara-sarOruha-sAmya-vArtAm", "english": "and fragrant lotus, the very talk of comparison" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "samyakshu", "english": "completely" },
+            { "sanskrit": "sAhasa-padEshu", "english": "in acts of audacity" },
+            { "sanskrit": "vilEkhayantau", "english": "the two feet that write off (surpass)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "rEkhA-maya-dhvaja-sudhA-kalaSa-Atapatra", "english": "With lines forming a flag, a pot of nectar, an umbrella" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vajra-ankuSa-amburuha-kalpaka-Sankha-cakraih", "english": "a vajra, a goad, a lotus, a wish-fulfilling tree, a conch and a discus" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhavyaih", "english": "with these auspicious" },
+            { "sanskrit": "alankRta-talau", "english": "the two soles which are adorned" },
+            { "sanskrit": "para-tattva-cihnaih", "english": "with signs of the Supreme Reality" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "tAmra-udara-dyuti-parAjita-padmarAgau", "english": "The two feet whose reddish inner glow defeats the ruby" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bAhyaih", "english": "with their outer" },
+            { "sanskrit": "mahObhih", "english": "radiance" },
+            { "sanskrit": "abhibhUta-mahEndra-nIlau", "english": "overpower the great Indraneela sapphire" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "udyan-nakha-amSubhih", "english": "by the rays of their rising nails" },
+            { "sanskrit": "udasta-SaSAnka-bhAsau", "english": "outshine the luster of the moon" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 7,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sa-prEma-bhIti-kamalA-kara-pallavAbhyAm", "english": "By the sprout-like hands of Kamala, with love and fear" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "samvAhanE-api", "english": "even in massaging" },
+            { "sanskrit": "sapadi", "english": "instantly" },
+            { "sanskrit": "klamam", "english": "fatigue" },
+            { "sanskrit": "AdadhAnau", "english": "the two feet that show" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "kAntA-avAng-manasa-gOcara-saukumAryau", "english": "Whose tenderness is beyond the speech and mind of His beloved" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 8,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "lakshmI-mahI-tadanurUpa-nijAnubhAva", "english": "Of Lakshmi, Bhudevi, and those with befitting glory of their own" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "nILA-Adi-divya-mahishI-kara-pallavAnAm", "english": "from the sprout-like hands of Nila and other divine consorts" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "AruNya-sankramaNatah", "english": "from the transfer of the redness" },
+            { "sanskrit": "kila", "english": "indeed" },
+            { "sanskrit": "sAndra-rAgau", "english": "the two feet that are intensely red" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 9,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "nitya-Anamat-vidhi-Siva-Adi-kirITa-kOTi", "english": "From the crores of crowns of the eternally bowing Brahma, Shiva and others" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "pratyupta-dIpta-nava-ratna-mahah-prarOhaih", "english": "with the brilliant rays sprouting from the nine gems embedded in them" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "nIrAjana-vidhim", "english": "the rite of waving lights" },
+            { "sanskrit": "udAram", "english": "the noble" },
+            { "sanskrit": "upAdadhAnau", "english": "the two feet which perform" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 10,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vishNoh", "english": "Of Vishnu" },
+            { "sanskrit": "padE", "english": "in the abode" },
+            { "sanskrit": "paramE", "english": "supreme" },
+            { "sanskrit": "iti", "english": "thus" },
+            { "sanskrit": "udita-praSamsau", "english": "the two feet that are praised" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "yau", "english": "which two" },
+            { "sanskrit": "madhvah", "english": "of honey" },
+            { "sanskrit": "utsah", "english": "fountain" },
+            { "sanskrit": "iti", "english": "thus" },
+            { "sanskrit": "bhOgyatayA-api", "english": "also for their enjoyability" },
+            { "sanskrit": "upAttau", "english": "are regarded" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhUyah", "english": "further" },
+            { "sanskrit": "tathA-iti", "english": "as such" },
+            { "sanskrit": "tava", "english": "by Your" },
+            { "sanskrit": "pANi-tala-pradishTau", "english": "are pointed out by the palm of Your hand" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 11,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "pArthAya", "english": "To Partha (Arjuna)" },
+            { "sanskrit": "tat-sadRSa-sArathinA", "english": "by the incomparable charioteer" },
+            { "sanskrit": "tvayA-eva", "english": "by You Yourself" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "yau", "english": "which two" },
+            { "sanskrit": "darSitau", "english": "were shown" },
+            { "sanskrit": "sva-caraNau", "english": "Your own feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "vraja-iti", "english": "with the words 'take refuge'" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhUyah-api", "english": "once again" },
+            { "sanskrit": "mahyam-iha", "english": "to me, here" },
+            { "sanskrit": "tau", "english": "those two" },
+            { "sanskrit": "kara-darSitau", "english": "are shown by Your hand" },
+            { "sanskrit": "tE", "english": "Your" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 12,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "mat-mUrdhni", "english": "On my head" },
+            { "sanskrit": "kAliya-phaNE", "english": "on the hood of Kaliya" },
+            { "sanskrit": "vikaTa-aTavIshu", "english": "in the dense forests" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAdri-SikharE", "english": "on the peak of Sri Venkatadri" },
+            { "sanskrit": "Sirasi", "english": "on the head" },
+            { "sanskrit": "SrutInAm", "english": "of the Vedas" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "cittE-api", "english": "and in the minds" },
+            { "sanskrit": "ananya-manasAm", "english": "of the single-minded" },
+            { "sanskrit": "samam", "english": "equally" },
+            { "sanskrit": "Ahitau", "english": "are placed" },
+            { "sanskrit": "tE", "english": "Your" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 13,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "amlAna-hRshyat-avanItala-kIrNa-pushpau", "english": "The two feet strewn with unfading, joyous flowers from the earth" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTAdri-Sikhara-AbharaNAyamAnau", "english": "acting as an ornament for the peak of Sri Venkatadri" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "Anandita-akhila-mana-nayanau", "english": "which delight the minds and eyes of all" },
+            { "sanskrit": "tava", "english": "Your" },
+            { "sanskrit": "etau", "english": "these two" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 14,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "prAyah", "english": "Generally" },
+            { "sanskrit": "prapanna-janatA", "english": "by the surrendered people" },
+            { "sanskrit": "prathama-avagAhyau", "english": "the first to be grasped" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "mAtuh", "english": "of a mother" },
+            { "sanskrit": "stanau-iva", "english": "like the two breasts" },
+            { "sanskrit": "SiSoh", "english": "for a child" },
+            { "sanskrit": "amRtAyamAnau", "english": "acting as nectar" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "prAptau", "english": "having obtained" },
+            { "sanskrit": "paraspara-tulAm", "english": "comparison with each other" },
+            { "sanskrit": "atula-antarau", "english": "but internally incomparable" },
+            { "sanskrit": "tE", "english": "Your" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 15,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sattva-uttaraih", "english": "by those of pure Sattva quality" },
+            { "sanskrit": "satata-sEvya-pada-ambujEna", "english": "by the one whose lotus feet are constantly served" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "samsAra-tAraka-dayA-Ardra-dRg-ancalEna", "english": "by the one whose corner of the eye, moist with compassion, is the ferry across Samsara" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "saumya-upayantR-muninA", "english": "by the noble sage (Manavala Mamunigal)" },
+            { "sanskrit": "mama", "english": "to me" },
+            { "sanskrit": "darSitau", "english": "were shown" },
+            { "sanskrit": "tE", "english": "Your" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "SrI-vEnkaTESa", "english": "of Sri Venkatesa" },
+            { "sanskrit": "caraNau", "english": "to the two feet" },
+            { "sanskrit": "SaraNam", "english": "refuge" },
+            { "sanskrit": "prapadyE", "english": "I take" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 16,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "SrISa", "english": "O Lord of Sri" },
+            { "sanskrit": "SriyA", "english": "by Sri" },
+            { "sanskrit": "ghaTikayA", "english": "who acts as the connection" },
+            { "sanskrit": "tvat-upAya-bhAvE", "english": "when You become the means" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "prApyE", "english": "and the goal" },
+            { "sanskrit": "tvayi", "english": "in You" },
+            { "sanskrit": "svayam", "english": "she herself" },
+            { "sanskrit": "upEyatayA", "english": "as the attainment" },
+            { "sanskrit": "sphurantyA", "english": "shines" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "nitya-ASritAya", "english": "To the eternally sought refuge" },
+            { "sanskrit": "niravadya-guNAya", "english": "to the one with flawless qualities" },
+            { "sanskrit": "tubhyam", "english": "for You" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "syAm", "english": "may I be" },
+            { "sanskrit": "kinkarah", "english": "a servant" },
+            { "sanskrit": "vRshagirISa", "english": "O Lord of Vrishagiri" },
+            { "sanskrit": "na", "english": "not" },
+            { "sanskrit": "jAtu", "english": "ever" },
+            { "sanskrit": "mahyam", "english": "for myself" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,9 +4,11 @@
   "links": [
     { "url": "/sripedia/oppiliappan/index.html", "text": "Group: Oppiliappan", "class": "wikipagelink" },
     { "url": "/sripedia/ramanuja/index.html", "text": "Group: Ramanuja" },
+        { "url": "/sripedia/raamabhakti/index.html", "text": "Group: RaamaBhakti" },
     { "url": "/sripedia/srirangasri/index.html", "text": "Group: SriRangaSri" },
-    { "url": "http://www.ibiblio.org/sripedia/ebooks/mw", "text": "Book: Sanskrit Dictionary" },
 
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/mw", "text": "Book: Sanskrit Dictionary" },
+    { "url": "http://www.ibiblio.org/sripedia/ebooks/suprabatham", "text": "Book: Suprabatham" },
     { "url": "http://www.ibiblio.org/sripedia/ebooks/tpv", "text": "Book: Tiruppavai" },
     { "url": "http://www.ibiblio.org/sripedia/ebooks/tvm", "text": "Book: Tiruvaimozhi" },
     { "url": "http://www.ibiblio.org/sripedia/ebooks/sbe48", "text": "Book: Vedanta Sutras" },

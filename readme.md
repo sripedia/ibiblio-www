@@ -8,7 +8,7 @@ This makes this repo an html top cap layer points to all the right places
 
 11ty is used to bring about a more streamlined look&feel across all the different subsections of the site.
 
-## usage
+## Getting started
 
 ```
 npm run build
@@ -16,6 +16,14 @@ npm run build
 
 ```
 rsync -avz _site/ sripedia@login.ibiblio.org:html/
+```
+
+## Configuration
+
+See .eleventy.js and .eleventyignore
+
+Notes:
+- To copy a directory over see kbhtml entry in the .eleventy.js and .eleventyignore files
 
 ## working on
 - ebooks/suprabatham/suprabatham.md (after verse 15/16)

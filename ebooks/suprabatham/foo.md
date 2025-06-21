@@ -1,7 +1,7 @@
 ---
 layout: ebooks/suprabatham/page.njk
 site: Sripedia
-permalink: /ebooks/suprabatham/suprabatham.html
+permalink: /ebooks/suprabatham/foo.html
 title: "Suprabatham"
 templateEngineOverride: njk
 ---

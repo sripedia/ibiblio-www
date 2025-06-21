@@ -18,4 +18,8 @@ npm run build
 rsync -avz _site/ sripedia@login.ibiblio.org:html/
 
 ## working on
-- ebooks/suprabatham/suprabatham.md
+- ebooks/suprabatham/stotram.md
+
+
+kausalyA   suprajA   Raama  poorvA  sandhyA         pravartatE
+Kausalya's noble son O Rama eastern dawn (twilight) is breaking forth

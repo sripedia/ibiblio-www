@@ -24,10 +24,3 @@ See .eleventy.js and .eleventyignore
 
 Notes:
 - To copy a directory over see kbhtml entry in the .eleventy.js and .eleventyignore files
-
-## working on
-- ebooks/suprabatham/suprabatham.md (after verse 15/16)
-
-
-kausalyA   suprajA   Raama  poorvA  sandhyA         pravartatE
-Kausalya's noble son O Rama eastern dawn (twilight) is breaking forth

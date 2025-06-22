@@ -1,0 +1,20 @@
+{
+  "label": "Micro Sites",
+  "type": "links",
+  "links": [
+    { "url": "/sripedia/oppiliappan/index.html", "text": "Oppiliappan", "section": "Group" },
+    { "url": "/sripedia/ramanuja/index.html", "text": "Ramanuja", "section": "Group" },
+    { "url": "/sripedia/raamabhakti/index.html", "text": "RaamaBhakti", "section": "Group" },
+    { "url": "/sripedia/srirangasri/index.html", "text": "SriRangaSri", "section": "Group" },
+    { "url": "/sripedia/ebooks/mw", "text": "Sanskrit Dictionary", "section": "Book" },
+    { "url": "/sripedia/ebooks/suprabatham", "text": "Suprabatham", "section": "Book" },
+    { "url": "/sripedia/ebooks/tpv", "text": "Tiruppavai", "section": "Book" },
+    { "url": "/sripedia/ebooks/tvm", "text": "Tiruvaimozhi", "section": "Book" },
+    { "url": "/sripedia/ebooks/sbe48", "text": "Vedanta Sutras", "section": "Book" },
+    { "url": "/sripedia/ebooks/vsn", "text": "Vishnu Sahasranamam", "section": "Book" },
+    { "url": "/sripedia/ebooks/kua", "text": "Kuresar", "section": "Author" },
+    { "url": "/sripedia/ebooks/vdesikan", "text": "Vedanta Desikan", "section": "Author" },
+    { "url": "/sripedia/ebooks/vdesikan/rps/chitra.html", "text": "Matrix of Artistry", "section": "Geometry" },
+    { "url": "/sripedia/ebooks/sandhya", "text": "Sandhyavandanam", "section": "Ritual" }
+  ]
+}

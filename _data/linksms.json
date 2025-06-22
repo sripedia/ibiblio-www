@@ -1,0 +1,20 @@
+{
+  "label": "Micro Sites",
+  "type": "links",
+  "links": [
+    { "url": "/sripedia/oppiliappan/index.html", "text": "Group: Oppiliappan" },
+    { "url": "/sripedia/ramanuja/index.html", "text": "Group: Ramanuja" },
+    { "url": "/sripedia/raamabhakti/index.html", "text": "Group: RaamaBhakti" },
+    { "url": "/sripedia/srirangasri/index.html", "text": "Group: SriRangaSri" },
+    { "url": "/sripedia/ebooks/mw", "text": "Book: Sanskrit Dictionary" },
+    { "url": "/sripedia/ebooks/suprabatham", "text": "Book: Suprabatham" },
+    { "url": "/sripedia/ebooks/tpv", "text": "Book: Tiruppavai" },
+    { "url": "/sripedia/ebooks/tvm", "text": "Book: Tiruvaimozhi" },
+    { "url": "/sripedia/ebooks/sbe48", "text": "Book: Vedanta Sutras" },
+    { "url": "/sripedia/ebooks/vsn", "text": "Book: Vishnu Sahasranamam" },
+    { "url": "/sripedia/ebooks/kua", "text": "Author: Kuresar" },
+     { "url": "/sripedia/ebooks/vdesikan", "text": "Author: Vedanta Desikan" },
+    { "url": "/sripedia/ebooks/vdesikan/rps/chitra.html", "text": "Geometry: Matrix of Artistry" },
+    { "url": "/sripedia/ebooks/sandhya", "text": "Ritual: Sandhyavandanam" }
+  ]
+}

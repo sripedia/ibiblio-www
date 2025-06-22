@@ -33,9 +33,9 @@ templateEngineOverride: njk
             {% for group in block.links | groupby('section') %}
             <div class="masonry-item">
                 {% if loop.index == 1 %}
-                <h4 style="margin-top:0px">{{ group.key }}</h4>
+                <h4 style="margin-top:0px;margin-bottom:5px;">{{ group.key }}</h4>
                 {% else %}
-                <h4>{{ group.key }}</h4>
+                <h4 style="margin-bottom:5px;">{{ group.key }}</h4>
                 {% endif %}
                 <ul>
                     {% for item in group.list %}

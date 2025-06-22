@@ -2,10 +2,6 @@
   "label": "Micro Sites",
   "type": "links",
   "links": [
-    { "url": "/sripedia/oppiliappan/index.html", "text": "Oppiliappan", "section": "Groups" },
-    { "url": "/sripedia/ramanuja/index.html", "text": "Ramanuja", "section": "Groups" },
-    { "url": "/sripedia/raamabhakti/index.html", "text": "RaamaBhakti", "section": "Groups" },
-    { "url": "/sripedia/srirangasri/index.html", "text": "SriRangaSri", "section": "Groups" },
     { "url": "/sripedia/ebooks/mw", "text": "Sanskrit Dictionary", "section": "eBooks" },
     { "url": "/sripedia/ebooks/suprabatham", "text": "Suprabatham", "section": "eBooks" },
     { "url": "/sripedia/ebooks/tpv", "text": "Tiruppavai", "section": "eBooks" },
@@ -16,6 +12,10 @@
     { "url": "/sripedia/ebooks/vdesikan", "text": "Vedanta Desikan", "section": "Authors" },
     { "url": "/sripedia/ebooks/vdesikan/rps/chitra.html", "text": "Geometry: Matrix of Artistry", "section": "Misc" },
     { "url": "/sripedia/ebooks/sandhya", "text": "Ritual: Sandhyavandanam", "section": "Misc" },
-    { "url": "/sripedia/kbhtml/index", "text": "Concepts", "section": "Misc" }
+    { "url": "/sripedia/kbhtml/index", "text": "Concepts", "section": "Misc" },
+    { "url": "/sripedia/oppiliappan/index.html", "text": "Oppiliappan", "section": "Groups" },
+    { "url": "/sripedia/ramanuja/index.html", "text": "Ramanuja", "section": "Groups" },
+    { "url": "/sripedia/raamabhakti/index.html", "text": "RaamaBhakti", "section": "Groups" },
+    { "url": "/sripedia/srirangasri/index.html", "text": "SriRangaSri", "section": "Groups" }
   ]
 }

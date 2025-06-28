@@ -2,6 +2,7 @@
   "verses": [
     {
       "verseNumber": 1,
+      "repeat": 2,
       "lines": [
         {
           "words": [
@@ -187,6 +188,7 @@
     },
     {
       "verseNumber": 9,
+      "repeat": 2,
       "lines": [
         {
           "words": [
@@ -218,6 +220,7 @@
     },
     {
       "verseNumber": 10,
+      "repeat": 2,
       "lines": [
         {
           "words": [

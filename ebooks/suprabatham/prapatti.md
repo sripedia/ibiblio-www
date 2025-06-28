@@ -5,8 +5,9 @@ permalink: /ebooks/suprabatham/prapatti.html
 title: "Prapatti"
 templateEngineOverride: njk
 ---
+
 <div style="margin-bottom: 50px;">
-Verse 1
+Verse 1 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">IsAnAm          jagatOsya           vEnkaTapateh      vishNOh      parAm          prEyasIm</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">Of the Lords    of this universe    of Venkatapati    of Vishnu    the supreme    beloved</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">tad-vakshas-sthala-nitya-vAsa-rasikAm                  tat-kshAnti-samvardhinIm</pre>
@@ -18,7 +19,7 @@ Verse 1
 </div>
 
 <div style="margin-bottom: 50px;">
-Verse 2
+Verse 2 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">SrIman            kRpA-jala-nidhE     kRta-sarva-lOka</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">O glorious one    O ocean of mercy    O creator of all worlds</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">sarvajna             Saktha                nata-vatsala                           sarva-SEshin</pre>
@@ -174,7 +175,7 @@ Verse 14
 </div>
 
 <div style="margin-bottom: 50px;">
-Verse 15
+Verse 15 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">sattva-uttaraih                    satata-sEvya-pada-ambujEna</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">by those of pure Sattva quality    by the one whose lotus feet are constantly served</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">samsAra-tAraka-dayA-Ardra-dRg-ancalEna</pre>
@@ -186,7 +187,7 @@ Verse 15
 </div>
 
 <div style="margin-bottom: 50px;">
-Verse 16
+Verse 16 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">SrISa            SriyA     ghaTikayA                     tvat-upAya-bhAvE</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">O Lord of Sri    by Sri    who acts as the connection    when You become the means</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">prApyE          tvayi     svayam         upEyatayA            sphurantyA</pre>

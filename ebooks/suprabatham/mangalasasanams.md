@@ -7,7 +7,7 @@ templateEngineOverride: njk
 ---
 
 <div style="margin-bottom: 50px;">
-Verse 1
+Verse 1 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">Sriya: kAntAya                     kalyANa-nidhaye                      nidhaye-erthinAm</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">To the beloved of Sri (Lakshmi)    to the treasure of auspiciousness    to the wealth for all seekers</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">SrI-vEnkaTa-nivAsAya                    SrInivAsAya     mangaLam</pre>
@@ -95,7 +95,7 @@ Verse 11
 </div>
 
 <div style="margin-bottom: 50px;">
-Verse 12
+Verse 12 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">SrI-vaikuNTha-viraktAya                                 svAmi-pushkariNI-taTE</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">To the one who was disinclined towards Sri Vaikuntha    on the bank of Swami Pushkarini</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">ramayA ramamANAya                             vEnkaTEsAya     mangaLam</pre>
@@ -103,7 +103,7 @@ Verse 12
 </div>
 
 <div style="margin-bottom: 50px;">
-Verse 13
+Verse 13 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">SrImat-Sundara-jAmAtru-muni                                mAnasa-vAsinE</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">Of the sage Srimat Sundara Jamatru (Manavala Mamunigal)    to the one who resides in the mind</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">sarva-lOka-nivAsAya              SrInivAsAya     mangaLam</pre>

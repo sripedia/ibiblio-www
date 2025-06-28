@@ -1,8 +1,14 @@
 const fs = require('fs');
 const path = require('path');
 
+// Get the entire process.argv array
+const args = process.argv;
+
+// The first actual command-line argument is at index 2
+const firstArg = args[2];
+
 // --- Configuration ---
-const JSON_FILE_PATH = path.join(__dirname, 'mangalasasanams.json');
+const JSON_FILE_PATH = path.join(__dirname, firstArg);
 // This is the minimum space between the end of one word-pair column and the start of the next.
 const GAP_BETWEEN_COLUMNS = 4;
 
@@ -61,7 +67,12 @@ function main() {
         // Process each verse from the JSON data
         data.verses.forEach(verse => {
             console.log(`<div style="${DIV_STYLE}">`);
-            console.log(`Verse ${verse.verseNumber}`);
+            if (verse.repeat) {
+                console.log(`Verse ${verse.verseNumber} (${verse.repeat} times)`);
+            } else {
+                console.log(`Verse ${verse.verseNumber}`);
+            }
+            
 
             // Process each line within the verse
             verse.lines.forEach(line => {

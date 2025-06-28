@@ -7,7 +7,7 @@ templateEngineOverride: njk
 ---
 
 <div style="margin-bottom: 50px;">
-Verse 1
+Verse 1 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">kamalA-kuca-cUcuka-kumkumato                                          niyata-aruNita-atula-nIlatanO</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">From the saffron paste on the tips of Kamala's (Lakshmi's) breasts    O one whose incomparable blue body is forever tinged red</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">kamalAyata-lochana                 lOkapate                vijayI        bhava    vEnkaTa-Saila-patE</pre>
@@ -71,7 +71,7 @@ Verse 8
 </div>
 
 <div style="margin-bottom: 50px;">
-Verse 9
+Verse 9 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">vinA       vEnkaTESam    na             nAthO    na    nAthah    sadA      vEnkaTESam    smarAmi       smarAmi</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">Without    Venkatesa     there is no    Lord     no    Lord      always    Venkatesa     I remember    I remember</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">harE      vEnkaTESa      prasIda       prasIda       priyam          vEnkaTESa      prayaccha    prayaccha</pre>
@@ -79,7 +79,7 @@ Verse 9
 </div>
 
 <div style="margin-bottom: 50px;">
-Verse 10
+Verse 10 (2 times)
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">aham    dUratah      tE      pada-ambhOja-yugma-praNAma-icchayA                   Agatya         sEvAm      karOmi</pre>
 <pre style="color:#000000; font-family: monospace; white-space: pre;">I       from afar    Your    with the desire to bow to Your pair of lotus feet    having come    service    I perform</pre>
 <pre style="color:#ff0000; font-family: monospace; white-space: pre;">sakRt-sEvayA                     nitya-sEvA-phalam               tvam    prayaccha    prayaccha    prabhO    vEnkaTESa</pre>

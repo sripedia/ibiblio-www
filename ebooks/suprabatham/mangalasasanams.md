@@ -2,7 +2,7 @@
 layout: ebooks/suprabatham/page.njk
 site: Sripedia
 permalink: /ebooks/suprabatham/mangalasasanams.html
-title: "Prapatti"
+title: "Mangalasasanams"
 templateEngineOverride: njk
 ---
 

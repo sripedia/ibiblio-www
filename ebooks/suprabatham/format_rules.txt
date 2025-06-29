@@ -1,9 +1,3 @@
-Of course. Adding a container `<div>` with a bottom margin is a great way to visually separate the verses.
-
-Here is the revised and final prompt summary that incorporates this new rule.
-
-***
-
 ### Prompt for Sanskrit Verse Formatting (Final Version)
 
 **Objective:** To format one or more given Sanskrit verses with their word-by-word English translation into a specific, vertically aligned HTML structure.

@@ -1,0 +1,58 @@
+<html>
+<Title>SriPedia Vishnu Sahasranamam</Title>
+<div align="justify">
+  <table border="0" width="100%">
+    <tr>
+      <td width="45%">
+<b>Vishnu Sahasranamam&nbsp;</b> <i>Further Reading</i> external links
+
+      </td>
+      <td width="55%">
+        <p align="right">
+<a href=index.html>Index</a>&nbsp; Prolog&nbsp; <a href="namas.html">Namas</a>&nbsp;
+        <a href="phala.html">Phala Sruti</a>&nbsp;</td>
+    </tr>
+  </table>
+</div>
+
+<hr align=center>
+<ul>
+  <li>N. Krishnamachari's <a href="http://home.comcast.net/~chinnamma/sahasra/">commentary</a></li>
+  <li><a name=viswam>Viswam</a></li>
+<ul>
+  <li><a href="http://www.ibiblio.org/sripedia/oppiliappan/archives/1997/msg00155.html" name="00155">Ananadha
+    RaamAyaNam &amp; Si VishNu Sahasra Naamam (1).</a>, V. Sadagopan</li> Jun 1997
+  <li><a href="http://www.ibiblio.org/sripedia/oppiliappan/archives/1997/msg00156.html" name="00156">Visvam
+    &amp; Rg Vedam</a>, V. Sadagopan</li> Jun 1997
+  <li><a href="http://www.ibiblio.org/sripedia/oppiliappan/archives/1997/msg00157.html" name="00157">Visvam
+    &amp; Rg Vedam : Part 2</a>, V. Sadagopan</li> Jun 1997
+</ul>
+  <li>Vishnu Suktam</li>
+<ul>
+  <li><a href="http://www.ibiblio.org/sripedia/oppiliappan/archives/2001/msg00102.html" name="00102">Sri
+    Vishnu Sooktham : Introduction(Part I)</a>, Sadagopan</li> May 2001
+  <li><a href="http://www.ibiblio.org/sripedia/oppiliappan/archives/2001/msg00103.html" name="00103">Sri
+    Vishnu Sooktham : Part II</a>, Sadagopan</li> May 2001
+  <li><a href="http://www.ibiblio.org/sripedia/oppiliappan/archives/2001/msg00104.html" name="00104">Sri
+    Vishnu Sooktham : Part III --Conclusion</a>, Sadagopan</li> May 2001
+</ul>
+
+</ul>
+
+
+<hr>
+<div align="justify">
+  <table border="0" width="100%">
+    <tr>
+      <td width="45%">
+<b>Vishnu Sahasranamam&nbsp;</b> <i>Further Reading</i> external links
+
+      </td>
+      <td width="55%">
+        <p align="right">
+<a href=index.html>Index</a>&nbsp; Prolog&nbsp; <a href="namas.html">Namas</a>&nbsp;
+        <a href="phala.html">Phala Sruti</a>&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</html>

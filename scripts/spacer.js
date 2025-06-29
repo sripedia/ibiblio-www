@@ -1,14 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// Get the entire process.argv array
-const args = process.argv;
-
-// The first actual command-line argument is at index 2
-const firstArg = args[2];
-
 // --- Configuration ---
-const JSON_FILE_PATH = path.join(__dirname, firstArg);
 // This is the minimum space between the end of one word-pair column and the start of the next.
 const GAP_BETWEEN_COLUMNS = 4;
 
@@ -56,34 +49,57 @@ function formatLine(wordPairs) {
 }
 
 /**
- * Main function to read the JSON and print the formatted HTML.
+ * Generates HTML from verse data.
+ * @param {Object} data - The parsed JSON data, e.g., { verses: [...] }.
+ * @returns {string} - The generated HTML string.
+ */
+function generateHtml(data) {
+    let output = [];
+    data.verses.forEach(verse => {
+        let verseHtml = [];
+        verseHtml.push(`<div style="${DIV_STYLE}">`);
+        
+        let verseHeader = `Verse ${verse.verseNumber}`;
+        if (verse.repeat) {
+            verseHeader += ` (${verse.repeat} times)`;
+        }
+        verseHtml.push(verseHeader);
+
+        // Process each line within the verse
+        verse.lines.forEach(line => {
+            const { sanskritLine, englishLine } = formatLine(line.words);
+            verseHtml.push(`<pre style="${SANSKRIT_PRE_STYLE}">${sanskritLine}</pre>`);
+            verseHtml.push(`<pre style="${ENGLISH_PRE_STYLE}">${englishLine}</pre>`);
+        });
+
+        verseHtml.push(`</div>`);
+        output.push(verseHtml.join('\n'));
+    });
+    return output.join('\n\n');
+}
+
+/**
+ * Main function to read the JSON and print the formatted HTML for command-line use.
  */
 function main() {
     try {
+        // Get the entire process.argv array
+        const args = process.argv;
+
+        // The first actual command-line argument is at index 2
+        const firstArg = args[2];
+        if (!firstArg) {
+            console.error("Error: Please provide a path to a JSON file.");
+            process.exit(1);
+        }
+        const JSON_FILE_PATH = path.join(__dirname, firstArg);
+
         // Read and parse the JSON file
         const fileContent = fs.readFileSync(JSON_FILE_PATH, 'utf8');
         const data = JSON.parse(fileContent);
 
-        // Process each verse from the JSON data
-        data.verses.forEach(verse => {
-            console.log(`<div style="${DIV_STYLE}">`);
-            if (verse.repeat) {
-                console.log(`Verse ${verse.verseNumber} (${verse.repeat} times)`);
-            } else {
-                console.log(`Verse ${verse.verseNumber}`);
-            }
-            
-
-            // Process each line within the verse
-            verse.lines.forEach(line => {
-                const { sanskritLine, englishLine } = formatLine(line.words);
-
-                console.log(`<pre style="${SANSKRIT_PRE_STYLE}">${sanskritLine}</pre>`);
-                console.log(`<pre style="${ENGLISH_PRE_STYLE}">${englishLine}</pre>`);
-            });
-
-            console.log(`</div>\n`); // Add a newline for readability in the console
-        });
+        const html = generateHtml(data);
+        console.log(html);
 
     } catch (error) {
         console.error("An error occurred:", error.message);
@@ -91,5 +107,10 @@ function main() {
     }
 }
 
-// Run the script
-main();
+// Run the script if executed directly
+if (require.main === module) {
+    main();
+}
+
+// Export the core logic for use in other modules (like Eleventy)
+module.exports = { generateHtml, formatLine };

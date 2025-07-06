@@ -1,0 +1,2430 @@
+{
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vishvaM", "english": "The Universe/All" },
+            { "sanskrit": "vishhNur-", "english": "The All-Pervading One" },
+            { "sanskrit": "vashhaThkaaro", "english": "The one for whom the Vashat-offering is made" },
+            { "sanskrit": "bhoota-bhavya-bhavat-prabhuH", "english": "The Lord of the past, future, and present" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhoota-kRit", "english": "The creator of all beings" },
+            { "sanskrit": "bhoota-bhRid", "english": "The nourisher of all beings" },
+            { "sanskrit": "bhaavo", "english": "The one who exists" },
+            { "sanskrit": "bhootaatmaa", "english": "The Self of all beings" },
+            { "sanskrit": "bhootabhaavanaH", "english": "The originator of all beings" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "puutaatmaa", "english": "The one with a pure Self" },
+            { "sanskrit": "paramaatmaa", "english": "The Supreme Self" },
+            { "sanskrit": "cha", "english": "and" },
+            { "sanskrit": "muktaanaaM paramaa gatiH", "english": "The supreme goal for the liberated" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "avyayaH", "english": "The unchanging" },
+            { "sanskrit": "purushaH", "english": "The one who dwells in the city (body)" },
+            { "sanskrit": "saakshee", "english": "The witness" },
+            { "sanskrit": "kshetrajno", "english": "The knower of the field (body)" },
+            { "sanskrit": "akshara", "english": "The indestructible" },
+            { "sanskrit": "eva", "english": "indeed" },
+            { "sanskrit": "cha", "english": "and" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "yogo", "english": "The one realized through Yoga" },
+            { "sanskrit": "yoga-vidaaM netaa", "english": "The guide of those who know Yoga" },
+            { "sanskrit": "pradhaana-purusheshvaraH", "english": "The Lord of Pradhana (Prakriti) and Purusha" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "naarasimha-vapuH", "english": "The one with the form of a Man-Lion" },
+            { "sanskrit": "shriimaan", "english": "The one endowed with splendor (with Sri)" },
+            { "sanskrit": "keshavaH", "english": "The one with beautiful hair / Slayer of the demon Kesi" },
+            { "sanskrit": "purushottamaH", "english": "The Supreme Purusha (Person)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sarvaH", "english": "The All / He who is everything" },
+            { "sanskrit": "sharvaH", "english": "The destroyer" },
+            { "sanskrit": "shivaH", "english": "The auspicious one" },
+            { "sanskrit": "sthaaNur", "english": "The immovable" },
+            { "sanskrit": "bhootaadir", "english": "The origin of all beings" },
+            { "sanskrit": "nidhira-avyayaH", "english": "The imperishable treasure" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "saMbhavo", "english": "The one who manifests at will" },
+            { "sanskrit": "bhaavano", "english": "The giver of all" },
+            { "sanskrit": "bhartaa", "english": "The supporter" },
+            { "sanskrit": "prabhavaH", "english": "The source of all" },
+            { "sanskrit": "prabhur", "english": "The Lord" },
+            { "sanskrit": "eeshvaraH", "english": "The powerful / The controller" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "svayaMbhooH", "english": "The self-born" },
+            { "sanskrit": "shambhur", "english": "The bestower of happiness" },
+            { "sanskrit": "aadityaH", "english": "The son of Aditi (as Vamana) / The Sun" },
+            { "sanskrit": "pushhkaraaksho", "english": "The lotus-eyed" },
+            { "sanskrit": "mahaasvanaH", "english": "The one with a great (Vedic) sound" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "anaadi-nidhano", "english": "The one without beginning or end" },
+            { "sanskrit": "dhaataa", "english": "The sustainer" },
+            { "sanskrit": "vidhaataa", "english": "The ordainer of destiny" },
+            { "sanskrit": "dhaaturuttamaH", "english": "The ultimate constituent element" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "aprameyo", "english": "The immeasurable" },
+            { "sanskrit": "hRisheekeshaH", "english": "The Lord of the senses" },
+            { "sanskrit": "padmanaabho-", "english": "The one with a lotus in his navel" },
+            { "sanskrit": "a-maraprabhuH", "english": "The Lord of the immortals (Devas)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vishvakarmaa", "english": "The architect of the universe" },
+            { "sanskrit": "manus", "english": "The thinker" },
+            { "sanskrit": "tvashhTaa", "english": "The one who makes all beings shrink (at pralaya)" },
+            { "sanskrit": "sthavishhThaH", "english": "The supremely gross/huge" },
+            { "sanskrit": "sthaviro", "english": "The ancient" },
+            { "sanskrit": "dhruvaH", "english": "The firm/constant" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 7,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "agraahyaH", "english": "The one who cannot be grasped" },
+            { "sanskrit": "shaashvataH", "english": "The eternal" },
+            { "sanskrit": "kRishhNo", "english": "The one of dark complexion / The all-attractive" },
+            { "sanskrit": "lohitaakshaH", "english": "The red-eyed" },
+            { "sanskrit": "pratardanaH", "english": "The destroyer" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "prabhootaH", "english": "The ever-full" },
+            { "sanskrit": "trikakub-dhaama", "english": "The support of the three regions (above, below, middle)" },
+            { "sanskrit": "pavitraM", "english": "The pure/purifier" },
+            { "sanskrit": "maNgalaM param", "english": "The supreme auspiciousness" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 8,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "eeshaanaH", "english": "The controller" },
+            { "sanskrit": "praaNadaH", "english": "The giver of life-breath (Prana)" },
+            { "sanskrit": "praaNo", "english": "The life-breath" },
+            { "sanskrit": "jyeshhThaH", "english": "The eldest" },
+            { "sanskrit": "shreshhThaH", "english": "The most excellent" },
+            { "sanskrit": "prajaapatiH", "english": "The lord of all beings" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "hiraNya-garbho", "english": "The one who is the golden womb/source" },
+            { "sanskrit": "bhuu-garbho", "english": "The one who has the earth as his womb" },
+            { "sanskrit": "maadhavo", "english": "The consort of Ma (Lakshmi) / Descendant of Madhu" },
+            { "sanskrit": "madhusuudanaH", "english": "The slayer of the demon Madhu" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 9,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "eeshvaro", "english": "The controller" },
+            { "sanskrit": "vikramee", "english": "The courageous" },
+            { "sanskrit": "dhanvee", "english": "The wielder of the bow" },
+            { "sanskrit": "medhaavee", "english": "The supremely intelligent" },
+            { "sanskrit": "vikramaH", "english": "The one who strides (as Vamana)" },
+            { "sanskrit": "kramaH", "english": "The pervader" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "anuttamo", "english": "The unsurpassed" },
+            { "sanskrit": "duraadharshhaH", "english": "The unassailable" },
+            { "sanskrit": "kRitaGYaH", "english": "The one who knows all actions" },
+            { "sanskrit": "kRitir", "english": "The action" },
+            { "sanskrit": "aatmavaan", "english": "The one established in his own Self" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 10,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sureshaH", "english": "The Lord of the Suras (Gods)" },
+            { "sanskrit": "sharaNaM", "english": "The refuge" },
+            { "sanskrit": "sharma", "english": "The one who is bliss" },
+            { "sanskrit": "vishva-retaaH", "english": "The seed of the universe" },
+            { "sanskrit": "prajaa-bhavaH", "english": "The source of all beings" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ahaH", "english": "The one who is the Day" },
+            { "sanskrit": "samvatsaro", "english": "The one who is the Year" },
+            { "sanskrit": "vyaalaH", "english": "The ungraspable one (like a serpent)" },
+            { "sanskrit": "pratyayaH", "english": "The one who is consciousness" },
+            { "sanskrit": "sarvadarshanaH", "english": "The all-seeing" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 11,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ajaH", "english": "The unborn" },
+            { "sanskrit": "sarveshvaraH", "english": "The Lord of all" },
+            { "sanskrit": "siddhaH", "english": "The perfect one" },
+            { "sanskrit": "siddhiH", "english": "The one who is perfection" },
+            { "sanskrit": "sarvaadir", "english": "The beginning of all" },
+            { "sanskrit": "achyutaH", "english": "The infallible" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vRishhaa ka pir", "english": "He who is the boar (Dharma) and the sun" },
+            { "sanskrit": "ameyaatmaa", "english": "The one with an immeasurable Self" },
+            { "sanskrit": "sarva-yoga-viniHssRitaH", "english": "The one who is free from all attachments" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 12,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vasur", "english": "The one in whom all beings dwell" },
+            { "sanskrit": "vasumanaaH", "english": "The one with a benevolent mind" },
+            { "sanskrit": "satyaH", "english": "The Truth" },
+            { "sanskrit": "samaatmaa", "english": "The one who is equal in all beings" },
+            { "sanskrit": "saMmitaH", "english": "The one accepted by the wise" },
+            { "sanskrit": "samaH", "english": "The equal" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "amoghaH", "english": "The unfailing" },
+            { "sanskrit": "puNDareekaaksho", "english": "The lotus-eyed" },
+            { "sanskrit": "vRishhakarmaa", "english": "The one whose actions are righteous (Dharma)" },
+            { "sanskrit": "vRishhaakRitiH", "english": "The one who is the embodiment of Dharma" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 13,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "rudro", "english": "The one who makes beings cry (at pralaya)" },
+            { "sanskrit": "bahu-shiraa", "english": "The many-headed" },
+            { "sanskrit": "babhrur", "english": "The supporter (of the worlds)" },
+            { "sanskrit": "vishvayoniH", "english": "The source of the universe" },
+            { "sanskrit": "shuchi-shravaaH", "english": "The one whose names are pure to hear" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "amRitaH", "english": "The immortal" },
+            { "sanskrit": "shaashvataH-sthaaNur", "english": "The eternal and immovable" },
+            { "sanskrit": "varaaroho", "english": "The one of supreme ascent" },
+            { "sanskrit": "mahaatapaaH", "english": "The one of great penance (knowledge)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 14,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sarvagaH", "english": "The all-pervading" },
+            { "sanskrit": "sarvavid", "english": "The all-knowing" },
+            { "sanskrit": "bhaanuhr", "english": "The shining one" },
+            { "sanskrit": "vishhvak-seno", "english": "The one whose armies are everywhere" },
+            { "sanskrit": "janaardanaH", "english": "The tormentor of wicked people" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vedo", "english": "The Veda" },
+            { "sanskrit": "vedavid", "english": "The knower of the Vedas" },
+            { "sanskrit": "avyaNgo", "english": "The one without imperfection" },
+            { "sanskrit": "vedaaNgo", "english": "The one whose limbs are the Vedas" },
+            { "sanskrit": "vedavit", "english": "The one who contemplates the Vedas" },
+            { "sanskrit": "kaviH", "english": "The seer/poet" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 15,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "lokaadhyakshaH", "english": "The supervisor of the worlds" },
+            { "sanskrit": "suraadhyaksho", "english": "The supervisor of the gods" },
+            { "sanskrit": "dharmaadhyakshaH", "english": "The supervisor of Dharma" },
+            { "sanskrit": "kRitaa-kRitaH", "english": "The one who is both cause and effect" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "chaturaatmaa", "english": "The four-fold Self" },
+            { "sanskrit": "chaturvyuuhas", "english": "The one with four manifestations (Vyuhas)" },
+            { "sanskrit": "chatur-damshTrash", "english": "The one with four fangs (in Narasimha avatara)" },
+            { "sanskrit": "chatur-bhujaH", "english": "The four-armed" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 16,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "bhraajishhNur", "english": "The radiant" },
+            { "sanskrit": "bhojanaM", "english": "The object of enjoyment" },
+            { "sanskrit": "bhoktaa", "english": "The enjoyer" },
+            { "sanskrit": "sahishhNur", "english": "The endurer" },
+            { "sanskrit": "jagadaadijaH", "english": "The one born at the beginning of the universe" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "anagho", "english": "The sinless" },
+            { "sanskrit": "vijayo", "english": "The victorious" },
+            { "sanskrit": "jetaa", "english": "The conqueror" },
+            { "sanskrit": "vishvayoniH", "english": "The source of the universe" },
+            { "sanskrit": "punarvasuH", "english": "The one who dwells again and again (in beings)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 17,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "upendro", "english": "The younger brother of Indra" },
+            { "sanskrit": "vaamanaH", "english": "The dwarf (Vamana avatara)" },
+            { "sanskrit": "praamshur", "english": "The tall one (as Trivikrama)" },
+            { "sanskrit": "amoghaH", "english": "The unfailing" },
+            { "sanskrit": "shuchir", "english": "The pure" },
+            { "sanskrit": "oorjitaH", "english": "The powerful" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ateendraH", "english": "The one who is beyond Indra" },
+            { "sanskrit": "samgrahaH", "english": "The one who holds all together" },
+            { "sanskrit": "sargo", "english": "The one who is creation" },
+            { "sanskrit": "dhRitaatmaa", "english": "The one with a controlled Self" },
+            { "sanskrit": "niyamo", "english": "The controller" },
+            { "sanskrit": "yamaH", "english": "The ruler" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 18,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vedyo", "english": "The one who is to be known" },
+            { "sanskrit": "vaidyaH", "english": "The supreme physician" },
+            { "sanskrit": "sadaayogee", "english": "The ever-yogic" },
+            { "sanskrit": "veerahaa", "english": "The slayer of valiant heroes (demons)" },
+            { "sanskrit": "maadhavo", "english": "The consort of Lakshmi" },
+            { "sanskrit": "madhuH", "english": "The honey-like (blissful)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ati-indriyo", "english": "The one beyond the senses" },
+            { "sanskrit": "mahaamaayo", "english": "The great illusionist" },
+            { "sanskrit": "mahotsaaho", "english": "The greatly enthusiastic" },
+            { "sanskrit": "mahaabalaH", "english": "The greatly strong" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 19,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "mahaabuddhir", "english": "The greatly intelligent" },
+            { "sanskrit": "mahaa-veeryo", "english": "The greatly valiant" },
+            { "sanskrit": "mahaa-shaktir", "english": "The greatly powerful" },
+            { "sanskrit": "mahaa-dyutiH", "english": "The greatly radiant" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "anirdeshya-vapuH", "english": "The one with an indefinable form" },
+            { "sanskrit": "shriimaan", "english": "The one endowed with splendor" },
+            { "sanskrit": "ameyaatmaa", "english": "The one with an immeasurable Self" },
+            { "sanskrit": "mahaadri-dhRik", "english": "The lifter of great mountains (Mandara/Govardhana)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 20,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "maheshhvaaso", "english": "The wielder of the great bow" },
+            { "sanskrit": "mahiibhartaa", "english": "The supporter of the earth" },
+            { "sanskrit": "shreenivaasaH", "english": "The abode of Sri (Lakshmi)" },
+            { "sanskrit": "sataaM gatiH", "english": "The goal of the virtuous" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aniruddhaH", "english": "The one who cannot be obstructed" },
+            { "sanskrit": "suraanando", "english": "The delight of the gods" },
+            { "sanskrit": "govindo", "english": "The protector of cows / Lord of the Earth" },
+            { "sanskrit": "govidaaM-patiH", "english": "The Lord of the wise" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 21,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "mareechir", "english": "The ray of light" },
+            { "sanskrit": "damano", "english": "The subduer" },
+            { "sanskrit": "hamsaH", "english": "The swan (symbol of purity/knowledge)" },
+            { "sanskrit": "suparNo", "english": "The one with beautiful wings (Garuda)" },
+            { "sanskrit": "bhujagottamaH", "english": "The best of serpents (Adisesha)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "hiraNyanaabhaH", "english": "The one with a golden navel" },
+            { "sanskrit": "sutapaaH", "english": "The one of excellent penance" },
+            { "sanskrit": "padmanaabhaH", "english": "The one with a lotus navel" },
+            { "sanskrit": "prajaapatiH", "english": "The lord of all beings" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 22,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "amRityuH", "english": "The deathless" },
+            { "sanskrit": "sarva-dRik", "english": "The all-seeing" },
+            { "sanskrit": "simhaH", "english": "The lion" },
+            { "sanskrit": "san-dhaataa", "english": "The regulator" },
+            { "sanskrit": "sandhimaan", "english": "The one who is always with devotees" },
+            { "sanskrit": "sthiraH", "english": "The firm" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ajo", "english": "The unborn" },
+            { "sanskrit": "durmarshhaNaH", "english": "The unbearable" },
+            { "sanskrit": "shaastaa", "english": "The teacher/ruler" },
+            { "sanskrit": "vishrutaatmaa", "english": "The one whose Self is famous" },
+            { "sanskrit": "suraariHaa", "english": "The slayer of the enemies of the gods" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 23,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "guruH-gurutamo", "english": "The greatest teacher" },
+            { "sanskrit": "dhaamaH", "english": "The ultimate abode" },
+            { "sanskrit": "satyaH", "english": "The Truth" },
+            { "sanskrit": "satya-paraakramaH", "english": "The one of true valor" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "nimishho", "english": "The one with closed eyes (in yoga-nidra)" },
+            { "sanskrit": "a-nimishhaH", "english": "The one with open eyes (ever-watchful)" },
+            { "sanskrit": "sragvee", "english": "The one wearing a garland (Vaijayanti)" },
+            { "sanskrit": "vaachaspatir", "english": "The Lord of speech" },
+            { "sanskrit": "udaara-dheeH", "english": "The one with a magnanimous intellect" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 24,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "agraNeer", "english": "The foremost leader" },
+            { "sanskrit": "graamaNiiH", "english": "The leader of the hosts" },
+            { "sanskrit": "shriimaan", "english": "The one endowed with splendor" },
+            { "sanskrit": "nyaayo", "english": "The one who is justice" },
+            { "sanskrit": "netaa", "english": "The leader" },
+            { "sanskrit": "samiiraNaH", "english": "The one who controls the wind" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sahasra-muurdhaa", "english": "The thousand-headed" },
+            { "sanskrit": "vishvaatmaa", "english": "The soul of the universe" },
+            { "sanskrit": "sahasraakshaH", "english": "The thousand-eyed" },
+            { "sanskrit": "sahasrapaat", "english": "The thousand-footed" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 25,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "aavartano", "english": "The one who turns the wheel of samsara" },
+            { "sanskrit": "nivRittaatmaa", "english": "The one whose Self is turned away (from samsara)" },
+            { "sanskrit": "samvRitaH", "english": "The veiled one" },
+            { "sanskrit": "saM-pramardanaH", "english": "The thorough destroyer" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ahaH ssamvartako", "english": "The one who is the 'day' and the 'dissolver'" },
+            { "sanskrit": "vanhir", "english": "The fire" },
+            { "sanskrit": "anilo", "english": "The air" },
+            { "sanskrit": "dharaNiidharaH", "english": "The supporter of the earth" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 26,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "suprasaadaH", "english": "The one of great grace" },
+            { "sanskrit": "prasannaatmaa", "english": "The one with a gracious Self" },
+            { "sanskrit": "vishva-dhRig", "english": "The supporter of the universe" },
+            { "sanskrit": "vishvabhug-vibhuH", "english": "The all-enjoying and all-pervading" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "satkartaa", "english": "The one who honors the good" },
+            { "sanskrit": "satkRitaH", "english": "The one who is honored" },
+            { "sanskrit": "saadhur", "english": "The virtuous one" },
+            { "sanskrit": "jahnur", "english": "The leader of men" },
+            { "sanskrit": "naaraayaNo", "english": "The one who rests on the waters / The goal of men" },
+            { "sanskrit": "naraH", "english": "The Man / The Guide" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 27,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "asankhyeyo", "english": "The innumerable" },
+            { "sanskrit": "aprameyaatmaa", "english": "The one with an immeasurable Self" },
+            { "sanskrit": "vishishhTaH", "english": "The excellent" },
+            { "sanskrit": "shishhTa-kRit", "english": "The one who disciplines" },
+            { "sanskrit": "shhuchiH", "english": "The pure" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "siddhaarthaH", "english": "The one who has accomplished all purposes" },
+            { "sanskrit": "siddhasankalpaH", "english": "The one whose resolves are fulfilled" },
+            { "sanskrit": "siddhidaH", "english": "The giver of perfection (siddhi)" },
+            { "sanskrit": "siddhisaadhanaH", "english": "The means to achieve perfection" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 28,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vRishhaahee", "english": "The lord of the day of Dharma" },
+            { "sanskrit": "vRishhabho", "english": "The one who showers blessings" },
+            { "sanskrit": "vishhNur", "english": "The all-pervading" },
+            { "sanskrit": "vRishhaparvaa", "english": "The one with steps of Dharma" },
+            { "sanskrit": "vRishhodaraH", "english": "The one with an abdomen from which blessings flow" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vardhano", "english": "The one who nourishes" },
+            { "sanskrit": "vardhamaanashcha", "english": "and the one who grows" },
+            { "sanskrit": "viviktaH", "english": "The one who is separate/alone" },
+            { "sanskrit": "shruti-saagaraH", "english": "The ocean of scriptures (Vedas)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 29,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "subhujo", "english": "The one with handsome arms" },
+            { "sanskrit": "durdharo", "english": "The one who is difficult to hold/bear" },
+            { "sanskrit": "vaagmii", "english": "The eloquent speaker" },
+            { "sanskrit": "mahendro", "english": "The great Indra" },
+            { "sanskrit": "vasudo", "english": "The giver of wealth" },
+            { "sanskrit": "vasuH", "english": "The wealth" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "naika-ruupo", "english": "The one of many forms" },
+            { "sanskrit": "bRihad-ruupaH", "english": "The one of vast form" },
+            { "sanskrit": "shipivishhTaH", "english": "The one who pervades the rays of light" },
+            { "sanskrit": "prakaashanaH", "english": "The illuminator" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 30,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ojas-tejo-dyutidharaH", "english": "The bearer of vitality, splendor, and radiance" },
+            { "sanskrit": "prakaasha-atmaa", "english": "The self-luminous Self" },
+            { "sanskrit": "prataapanaH", "english": "The one who radiates heat" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "RiddaH", "english": "The prosperous" },
+            { "sanskrit": "spashhTaaksharo", "english": "The one of clear utterance (OM)" },
+            { "sanskrit": "mantrash", "english": "The Mantra" },
+            { "sanskrit": "chandraanshur", "english": "The one with rays like the moon" },
+            { "sanskrit": "bhaaskara-dyutiH", "english": "The one with the radiance of the sun" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 31,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "amRitaaMshuudbhavo", "english": "The source of the moon's nectar-like rays" },
+            { "sanskrit": "bhaanuH", "english": "The sun" },
+            { "sanskrit": "shashabinduH", "english": "The one who nourishes like the moon (spotted like a hare)" },
+            { "sanskrit": "sureshvaraH", "english": "The Lord of the gods" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aushhadhaM", "english": "The medicine" },
+            { "sanskrit": "jagataH setuH", "english": "The bridge of the world" },
+            { "sanskrit": "satya-dharma-paraakramaH", "english": "The one whose truth, law, and valor are supreme" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 32,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "bhoota-bhavya-bhavan-naathaH", "english": "The Lord of past, future, and present beings" },
+            { "sanskrit": "pavanaH", "english": "The wind / The purifier" },
+            { "sanskrit": "paavano", "english": "The sanctifier" },
+            { "sanskrit": "analaH", "english": "The fire / The insatiable" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "kaamahaa", "english": "The destroyer of desires" },
+            { "sanskrit": "kaamakRit", "english": "The fulfiller of desires" },
+            { "sanskrit": "kaantaH", "english": "The charming" },
+            { "sanskrit": "kaamaH", "english": "The one who is desired (love)" },
+            { "sanskrit": "kaamapradaH", "english": "The giver of desires" },
+            { "sanskrit": "prabhuH", "english": "The Lord" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 33,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "yugaadi-kRit", "english": "The creator of the Yugas (ages)" },
+            { "sanskrit": "Yugaavarto", "english": "The one who makes the Yugas turn" },
+            { "sanskrit": "naikamaayo", "english": "The one of many illusions (Maya)" },
+            { "sanskrit": "mahaashanaH", "english": "The great consumer (at pralaya)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "adRishyo", "english": "The invisible" },
+            { "sanskrit": "vyaktaruupash", "english": "and The one of manifest form" },
+            { "sanskrit": "cha", "english": "and" },
+            { "sanskrit": "sahasrajid", "english": "The conqueror of thousands" },
+            { "sanskrit": "anandajit", "english": "The conqueror of infinite beings" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 34,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ishhTo", "english": "The one who is sought" },
+            { "sanskrit": "vishishhTaH", "english": "The distinguished" },
+            { "sanskrit": "shishhTeshhTaH", "english": "The one dear to the wise" },
+            { "sanskrit": "shikhaNDii", "english": "The one with a peacock feather crest" },
+            { "sanskrit": "nahushho", "english": "The one who binds (by Maya)" },
+            { "sanskrit": "vRishhaH", "english": "The one who is Dharma" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "krodhahaa", "english": "The destroyer of anger" },
+            { "sanskrit": "krodhakRit", "english": "The creator of anger (in the wicked)" },
+            { "sanskrit": "kartaa", "english": "The doer" },
+            { "sanskrit": "vishvabaahur", "english": "The one whose arms are the universe" },
+            { "sanskrit": "mahiidharaH", "english": "The supporter of the earth" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 35,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "achyutaH", "english": "The infallible" },
+            { "sanskrit": "prathitaH", "english": "The famous" },
+            { "sanskrit": "praaNaH", "english": "The life-breath" },
+            { "sanskrit": "praaNado", "english": "The giver of life-breath" },
+            { "sanskrit": "vaasavaanujaH", "english": "The younger brother of Vasava (Indra)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "apaam nidhir", "english": "The treasure of the waters" },
+            { "sanskrit": "adhishhTaanam", "english": "The foundation/substratum" },
+            { "sanskrit": "apramattaH", "english": "The ever-vigilant" },
+            { "sanskrit": "pratishhThitaH", "english": "The self-established" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 36,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "skandaH", "english": "The one who flows / The attacker" },
+            { "sanskrit": "skanda-dharo", "english": "The supporter of the path of righteousness" },
+            { "sanskrit": "dhuryo", "english": "The bearer of the burden (of creation)" },
+            { "sanskrit": "varado", "english": "The giver of boons" },
+            { "sanskrit": "vaayuvaahanaH", "english": "The one who makes the winds move" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vaasudevo", "english": "The son of Vasudeva / The one who dwells in all" },
+            { "sanskrit": "bRihad bhaanur", "english": "The one of great radiance" },
+            { "sanskrit": "aadidevaH", "english": "The primal God" },
+            { "sanskrit": "purandaraH", "english": "The destroyer of cities (of demons)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 37,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ashoka", "english": "The one without sorrow" },
+            { "sanskrit": "staaraNa", "english": "The one who helps cross (the ocean of samsara)" },
+            { "sanskrit": "staaraH", "english": "The one who saves" },
+            { "sanskrit": "shuuraH", "english": "The valiant" },
+            { "sanskrit": "shaurir", "english": "The descendant of Shura (Vasudeva's father)" },
+            { "sanskrit": "janeSHvaraH", "english": "The Lord of the people" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "anukuulaH", "english": "The favorable one" },
+            { "sanskrit": "shataavartaH", "english": "The one with a hundred turns (manifestations)" },
+            { "sanskrit": "padmee", "english": "The one holding a lotus" },
+            { "sanskrit": "padmanibhekshaNaH", "english": "The one with eyes like a lotus" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 38,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "padmanaabho", "english": "The one with a lotus navel" },
+            { "sanskrit": "aravindaakshaH", "english": "The lotus-eyed" },
+            { "sanskrit": "padmagarbhaH", "english": "The one who is to be meditated upon in the heart-lotus" },
+            { "sanskrit": "shariirabhRit", "english": "The sustainer of the body" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "mahardhi", "english": "The one of great prosperity" },
+            { "sanskrit": "Riddhoh", "english": "The prosperous" },
+            { "sanskrit": "vRiddhaatmaa", "english": "The ancient Self" },
+            { "sanskrit": "mahaaksho", "english": "The great-eyed" },
+            { "sanskrit": "garuDadhvajaH", "english": "The one with Garuda on his flag" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 39,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "atulaH", "english": "The incomparable" },
+            { "sanskrit": "sharabho", "english": "The one who shines in bodies (as the Self)" },
+            { "sanskrit": "bhiimaH", "english": "The formidable" },
+            { "sanskrit": "samayaGYo", "english": "The knower of the right time" },
+            { "sanskrit": "havirhariH", "english": "The one who takes the sacrificial offering" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sarva lakshaNa lakshaNyo", "english": "The one known through all characteristics" },
+            { "sanskrit": "lakshmiivaan", "english": "The one with Lakshmi" },
+            { "sanskrit": "samitinjayaH", "english": "The victor in battle" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 40,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "viksharo", "english": "The undecaying" },
+            { "sanskrit": "rohito", "english": "The red-hued one / The one who took the form of a Rohita fish" },
+            { "sanskrit": "maargo", "english": "The path" },
+            { "sanskrit": "hetur", "english": "The cause" },
+            { "sanskrit": "daamodaraH", "english": "The one with a rope around his belly" },
+            { "sanskrit": "sahaH", "english": "The all-enduring" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "mahiidharo", "english": "The supporter of the earth" },
+            { "sanskrit": "mahaabhaago", "english": "The most fortunate" },
+            { "sanskrit": "vegavaan", "english": "The swift" },
+            { "sanskrit": "amitaashanaH", "english": "The one who consumes limitlessly (at pralaya)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 41,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "udbhavaH", "english": "The origin" },
+            { "sanskrit": "kshobhaNo", "english": "The agitator (of Prakriti and Purusha)" },
+            { "sanskrit": "devaH", "english": "The shining one / The God" },
+            { "sanskrit": "shriigarbhaH", "english": "The one who contains Sri (splendor) within" },
+            { "sanskrit": "parameshvaraH", "english": "The Supreme Lord" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "karaNaM", "english": "The instrument" },
+            { "sanskrit": "kaaraNaM", "english": "The cause" },
+            { "sanskrit": "kartaa", "english": "The doer" },
+            { "sanskrit": "vikartaa", "english": "The creator of variety" },
+            { "sanskrit": "gahano", "english": "The inscrutable" },
+            { "sanskrit": "guhaH", "english": "The one who conceals / The one in the cave of the heart" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 42,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vyavasaayo", "english": "The one who is resolute" },
+            { "sanskrit": "vyavasthaanaH", "english": "The basis of all order" },
+            { "sanskrit": "samsthaanaH", "english": "The ultimate state" },
+            { "sanskrit": "sthaanado", "english": "The bestower of status" },
+            { "sanskrit": "dhruvaH", "english": "The firm" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "pararrdviH", "english": "The one with supreme wealth" },
+            { "sanskrit": "paramaspashTah", "english": "The supremely manifest" },
+            { "sanskrit": "tushhTaH", "english": "The contented" },
+            { "sanskrit": "pushhTaH", "english": "The full/nourished" },
+            { "sanskrit": "shubhekshaNaH", "english": "The one with auspicious eyes" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 43,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "raamo", "english": "The one who delights" },
+            { "sanskrit": "viraamo", "english": "The ultimate resting place" },
+            { "sanskrit": "virajo", "english": "The passionless" },
+            { "sanskrit": "maargo", "english": "The path" },
+            { "sanskrit": "neyo", "english": "The one to be led to" },
+            { "sanskrit": "nayo", "english": "The leader" },
+            { "sanskrit": "anayaH", "english": "The one who cannot be led by another" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "veeraH", "english": "The heroic" },
+            { "sanskrit": "shaktimataaM shreshhTaH", "english": "The best among the powerful" },
+            { "sanskrit": "dharmo", "english": "The one who is Dharma" },
+            { "sanskrit": "dharmaviduttamaH", "english": "The best among the knowers of Dharma" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 44,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vaikuNThaH", "english": "The remover of obstacles" },
+            { "sanskrit": "purushhaH", "english": "The Purusha" },
+            { "sanskrit": "praaNaH", "english": "The life-breath" },
+            { "sanskrit": "praaNadaH", "english": "The giver of life-breath" },
+            { "sanskrit": "praNavaH", "english": "The one who is praised (OM)" },
+            { "sanskrit": "pRithuH", "english": "The vast one" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "hiraNyagarbhaH", "english": "The golden womb" },
+            { "sanskrit": "shatruGHNo", "english": "The slayer of enemies" },
+            { "sanskrit": "vyaapto", "english": "The all-pervading" },
+            { "sanskrit": "vaayur", "english": "The wind" },
+            { "sanskrit": "adhokshajaH", "english": "The one who is not perceived by the senses" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 45,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "RituH", "english": "The one who is the seasons" },
+            { "sanskrit": "sudarshanaH", "english": "The one with a beautiful vision/discus" },
+            { "sanskrit": "kaalaH", "english": "The one who is Time" },
+            { "sanskrit": "parameshhThii", "english": "The one who is centered in the supreme" },
+            { "sanskrit": "parigrahaH", "english": "The one who is the recipient" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ugraH", "english": "The terrible" },
+            { "sanskrit": "samVatsaro", "english": "The one who is the year" },
+            { "sanskrit": "daksho", "english": "The skillful" },
+            { "sanskrit": "vishraamo", "english": "The place of rest" },
+            { "sanskrit": "vishva-dakshiNaH", "english": "The most skillful and efficient in the universe" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 46,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vistaaraH", "english": "The one who expands" },
+            { "sanskrit": "sthaavarah sthaaNuH", "english": "The stationary and the firm" },
+            { "sanskrit": "pramaaNaM", "english": "The proof / The authority" },
+            { "sanskrit": "biijamavyayam", "english": "The imperishable seed" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "artho", "english": "The one who is sought" },
+            { "sanskrit": "anartho", "english": "The one who needs nothing" },
+            { "sanskrit": "mahaakosho", "english": "The one with great sheaths/treasures" },
+            { "sanskrit": "mahaabhogo", "english": "The one of great enjoyment" },
+            { "sanskrit": "mahaadhanaH", "english": "The one of great wealth" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 47,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "anirviNNaH", "english": "The one without despondency" },
+            { "sanskrit": "sthavishhTho", "english": "The supremely gross" },
+            { "sanskrit": "abhoor", "english": "The one without birth" },
+            { "sanskrit": "dharma-yuupo", "english": "The sacrificial post of Dharma" },
+            { "sanskrit": "mahaa-makhaH", "english": "The great sacrifice" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "nakshatranemir", "english": "The hub of the stars" },
+            { "sanskrit": "nakshatree", "english": "The one who is the moon" },
+            { "sanskrit": "kshamaH", "english": "The patient" },
+            { "sanskrit": "kshaamaH", "english": "The one who remains after all is destroyed" },
+            { "sanskrit": "sameehanaH", "english": "The one who strives well" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 48,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "yaGYa", "english": "The sacrifice" },
+            { "sanskrit": "ijyo", "english": "The one who is to be worshipped" },
+            { "sanskrit": "mahejyashcha", "english": "and the greatest object of worship" },
+            { "sanskrit": "kratuH", "english": "The sacrificial rite" },
+            { "sanskrit": "satraM", "english": "The form of sacrifice" },
+            { "sanskrit": "sataaM gatiH", "english": "The goal of the virtuous" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sarvadarshee", "english": "The all-seeing" },
+            { "sanskrit": "vimuktaatmaa", "english": "The liberated Self" },
+            { "sanskrit": "sarvaGYo", "english": "The all-knowing" },
+            { "sanskrit": "GYaanamuttamam", "english": "The supreme knowledge" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 49,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "suvrataH", "english": "The one of good vows" },
+            { "sanskrit": "sumukhaH", "english": "The one with a handsome face" },
+            { "sanskrit": "suukshmaH", "english": "The subtle" },
+            { "sanskrit": "sughoshhaH", "english": "The one with an auspicious sound (Vedas)" },
+            { "sanskrit": "sukhadaH", "english": "The giver of happiness" },
+            { "sanskrit": "suhRit", "english": "The good-hearted friend" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "manoharo", "english": "The captivator of the mind" },
+            { "sanskrit": "jita-krodho", "english": "The one who has conquered anger" },
+            { "sanskrit": "viirabaahur", "english": "The one with heroic arms" },
+            { "sanskrit": "vidaaraNaH", "english": "The one who tears apart (the unrighteous)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 50,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "svaapanaH", "english": "The one who induces sleep (through Maya)" },
+            { "sanskrit": "svavasho", "english": "The one who is under his own control" },
+            { "sanskrit": "vyaapee", "english": "The all-pervading" },
+            { "sanskrit": "naikaatmaa", "english": "The one with many selves (forms)" },
+            { "sanskrit": "naikakarmakRit", "english": "The one who performs many actions" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vatsaro", "english": "The one in whom everything dwells" },
+            { "sanskrit": "vatsalo", "english": "The affectionate" },
+            { "sanskrit": "vatsee", "english": "The father (of all beings)" },
+            { "sanskrit": "ratnagarbho", "english": "The one with a jewel-womb (ocean)" },
+            { "sanskrit": "dhaneshvaraH", "english": "The Lord of wealth" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 51,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "dharmagub", "english": "The protector of Dharma" },
+            { "sanskrit": "dharmakRid", "english": "The practitioner of Dharma" },
+            { "sanskrit": "dharmii", "english": "The one who is the basis of Dharma" },
+            { "sanskrit": "sad", "english": "The existent (Reality)" },
+            { "sanskrit": "asat", "english": "The non-existent (Unreality)" },
+            { "sanskrit": "kshara", "english": "The perishable" },
+            { "sanskrit": "aksharam", "english": "The imperishable" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aviGYaataa", "english": "The one who is not the knower (of the individual soul's suffering)" },
+            { "sanskrit": "sahastraaMshur", "english": "The thousand-rayed (sun)" },
+            { "sanskrit": "vidhaataa", "english": "The ordainer" },
+            { "sanskrit": "kRita lakshaNaH", "english": "The one who has made the Sastras" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 52,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "gabhastinemiH", "english": "The center of the planetary systems" },
+            { "sanskrit": "sattvasthaH", "english": "The one who is situated in Sattva-guna" },
+            { "sanskrit": "simho", "english": "The lion" },
+            { "sanskrit": "bhootamaheshvaraH", "english": "The great Lord of all beings" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aadidevo", "english": "The primal God" },
+            { "sanskrit": "mahaadevo", "english": "The great God" },
+            { "sanskrit": "devesho", "english": "The Lord of the Gods" },
+            { "sanskrit": "devabhRid", "english": "The supporter of the Gods" },
+            { "sanskrit": "guruH", "english": "The teacher" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 53,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "uttaro", "english": "The one who uplifts" },
+            { "sanskrit": "gopatir", "english": "The lord of cattle / The lord of the earth" },
+            { "sanskrit": "goptaa", "english": "The protector" },
+            { "sanskrit": "GYaanagamyaH", "english": "The one attainable through knowledge" },
+            { "sanskrit": "puraatanaH", "english": "The ancient" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "shareera bhootabhRid", "english": "The sustainer of the elements of the body" },
+            { "sanskrit": "bhoktaa", "english": "The enjoyer" },
+            { "sanskrit": "kapeendro", "english": "The lord of the monkeys (Rama)" },
+            { "sanskrit": "bhooridakshiNaH", "english": "The one who gives generous gifts" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 54,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "somapo", "english": "The drinker of Soma juice" },
+            { "sanskrit": "amRitapaH", "english": "The drinker of nectar" },
+            { "sanskrit": "somaH", "english": "The one who is the moon" },
+            { "sanskrit": "purujit", "english": "The conqueror of many" },
+            { "sanskrit": "purusattamaH", "english": "The best among men" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vinayo", "english": "The one who humbles the proud" },
+            { "sanskrit": "jayaH", "english": "The victory" },
+            { "sanskrit": "satyasandho", "english": "The one of truthful resolve" },
+            { "sanskrit": "daashaarhaH", "english": "The one born in the Dasharha clan" },
+            { "sanskrit": "saatvataaM patiH", "english": "The Lord of the Satvatas (Yadavas)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 55,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "jiivo", "english": "The one who lives (as the Jiva)" },
+            { "sanskrit": "vinayitaa", "english": "The witness of humility" },
+            { "sanskrit": "saakshee", "english": "The witness" },
+            { "sanskrit": "mukundo", "english": "The giver of liberation" },
+            { "sanskrit": "amitavikramaH", "english": "The one of immeasurable prowess" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ambhonidhir", "english": "The ocean" },
+            { "sanskrit": "anantaatmaa", "english": "The infinite Self" },
+            { "sanskrit": "mahodadhishayo", "english": "The one who rests on the great ocean" },
+            { "sanskrit": "antakaH", "english": "The one who brings an end (Death)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 56,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ajo", "english": "The unborn" },
+            { "sanskrit": "mahaarhaH", "english": "The most worthy of worship" },
+            { "sanskrit": "svaabhaavyo", "english": "The ever self-existent" },
+            { "sanskrit": "jitaamitraH", "english": "The conqueror of enemies" },
+            { "sanskrit": "pramodanaH", "english": "The one who gives delight" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aanando", "english": "The bliss" },
+            { "sanskrit": "nandano", "english": "The one who gives bliss" },
+            { "sanskrit": "nandaH", "english": "The one who is full of bliss" },
+            { "sanskrit": "satyadharmaa", "english": "The one whose nature is truth" },
+            { "sanskrit": "trivikramaH", "english": "The one who took three strides" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 57,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "maharshhiH kapilaachaaryaH", "english": "The great sage, the teacher Kapila" },
+            { "sanskrit": "kRitaGYo", "english": "The one who knows creation" },
+            { "sanskrit": "medineepatiH", "english": "The Lord of the earth" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "tripadas", "english": "The one with three steps" },
+            { "sanskrit": "tri dashaa dhyaksho", "english": "The Lord of the three states (waking, dreaming, deep sleep)" },
+            { "sanskrit": "mahaashRiNgaH", "english": "The one with a great horn (in Matsya avatara)" },
+            { "sanskrit": "kRitaantakRit", "english": "The one who destroys the created world" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 58,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "mahaavaraaho", "english": "The great boar" },
+            { "sanskrit": "govindaH", "english": "The protector of cows" },
+            { "sanskrit": "sushheNaH", "english": "The one with a charming army" },
+            { "sanskrit": "kanakaaNgadee", "english": "The one with golden armlets" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "guhyo", "english": "The secret one" },
+            { "sanskrit": "gabhiiro", "english": "The deep" },
+            { "sanskrit": "gahano", "english": "The impenetrable" },
+            { "sanskrit": "guptash", "english": "and The hidden one" },
+            { "sanskrit": "chakra-gadaa dharaH", "english": "The wielder of the discus and mace" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 59,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vedhaaH", "english": "The creator" },
+            { "sanskrit": "svaaNgo", "english": "The one with beautiful limbs" },
+            { "sanskrit": "ajitaH", "english": "The unconquered" },
+            { "sanskrit": "kRishhNo", "english": "The all-attractive" },
+            { "sanskrit": "dRiDhaH", "english": "The firm" },
+            { "sanskrit": "sankarshhaNo", "english": "The one who draws all together" },
+            { "sanskrit": "achyutaH", "english": "The infallible" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "varuuNo", "english": "The one who envelops (like the evening sun)" },
+            { "sanskrit": "vaaruNo", "english": "The son of Varuna (Vasistha or Agastya)" },
+            { "sanskrit": "vRikshaH", "english": "The tree (like the Ashvattha tree)" },
+            { "sanskrit": "pushhkaraaksho", "english": "The lotus-eyed" },
+            { "sanskrit": "mahaamanaaH", "english": "The great-minded" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 60,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "bhagavaan", "english": "The one possessing the six opulences" },
+            { "sanskrit": "bhagah", "english": "The destroyer of the six opulences (at pralaya)" },
+            { "sanskrit": "aanandii", "english": "The blissful" },
+            { "sanskrit": "vanamaalii", "english": "The one wearing a forest garland" },
+            { "sanskrit": "halaayudhaH", "english": "The one with a plough as a weapon (Balarama)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aadityo", "english": "The son of Aditi" },
+            { "sanskrit": "jyotiraadityaH", "english": "The one who is the radiance in the sun" },
+            { "sanskrit": "sahiishhNur", "english": "The tolerant" },
+            { "sanskrit": "gatisattamaH", "english": "The best refuge" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 61,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sudhanvaa", "english": "The wielder of the good bow (Sharnga)" },
+            { "sanskrit": "khaNDaparashur", "english": "The one with a broken axe (as Parashurama)" },
+            { "sanskrit": "daaruNo", "english": "The merciless (to the wicked)" },
+            { "sanskrit": "draviNapradaH", "english": "The bestower of wealth" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "divih-spRik", "english": "The sky-touching" },
+            { "sanskrit": "sarvadRik", "english": "The all-seeing" },
+            { "sanskrit": "vyaaso", "english": "The compiler (of Vedas)" },
+            { "sanskrit": "vaachaspatir", "english": "The Lord of speech" },
+            { "sanskrit": "ayonijaH", "english": "The one not born from a womb" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 62,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "trisaamaa", "english": "The one praised by three Saman chants" },
+            { "sanskrit": "saamagaH", "english": "The singer of Saman chants" },
+            { "sanskrit": "saama", "english": "The Samaveda" },
+            { "sanskrit": "nirvaaNaM", "english": "The liberation (Nirvana)" },
+            { "sanskrit": "bheshhajaM", "english": "The medicine" },
+            { "sanskrit": "bhishhak", "english": "The physician" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sannyaasakRit", "english": "The institutor of Sannyasa" },
+            { "sanskrit": "chhamaH", "english": "The tranquil" },
+            { "sanskrit": "shaanto", "english": "The peaceful" },
+            { "sanskrit": "nishhThaa", "english": "The abode" },
+            { "sanskrit": "shaantiH", "english": "The peace" },
+            { "sanskrit": "paraayaNam", "english": "The supreme goal" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 63,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "shubhaaNgaH", "english": "The one with auspicious limbs" },
+            { "sanskrit": "shaantidaH", "english": "The giver of peace" },
+            { "sanskrit": "srashhTaa", "english": "The creator" },
+            { "sanskrit": "kumudaH", "english": "The one who delights in the earth" },
+            { "sanskrit": "kuvaleshayaH", "english": "The one who rests in the waters (on a water-lily)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "gohito", "english": "The benefactor of cows" },
+            { "sanskrit": "gopatir", "english": "The lord of cows" },
+            { "sanskrit": "goptaa", "english": "The protector" },
+            { "sanskrit": "vRishhabhaaksho", "english": "The one whose eyes shower desires" },
+            { "sanskrit": "vRishhapriyaH", "english": "The one who is fond of Dharma" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 64,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "anivartii", "english": "The one who never turns back" },
+            { "sanskrit": "nivRittaatmaa", "english": "The one whose Self is withdrawn (from senses)" },
+            { "sanskrit": "sa.nksheptaa", "english": "The one who condenses (at pralaya)" },
+            { "sanskrit": "kshemakRit", "english": "The doer of good" },
+            { "sanskrit": "shhivaH", "english": "The auspicious" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "shriivatsa vakshaaH", "english": "The one with the Srivatsa mark on his chest" },
+            { "sanskrit": "shriivaasaH", "english": "The abode of Sri" },
+            { "sanskrit": "shriipatiH", "english": "The Lord of Sri" },
+            { "sanskrit": "shriimataaM varaH", "english": "The best among the possessors of Sri" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 65,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "shriidaH", "english": "The giver of Sri" },
+            { "sanskrit": "shriishaH", "english": "The Lord of Sri" },
+            { "sanskrit": "shriinivaasaH", "english": "The abode of Sri" },
+            { "sanskrit": "shriinidhiH", "english": "The treasure of Sri" },
+            { "sanskrit": "shriivibhaavanaH", "english": "The distributor of Sri" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "shriidharaH", "english": "The bearer of Sri" },
+            { "sanskrit": "shriikaraH", "english": "The maker of Sri" },
+            { "sanskrit": "shreyaH", "english": "The one who is liberation" },
+            { "sanskrit": "shriimaaN", "english": "The possessor of Sri" },
+            { "sanskrit": "llokatrayaashrayaH", "english": "The shelter of the three worlds" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 66,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "svakshH", "english": "The beautiful-eyed" },
+            { "sanskrit": "svaNgaH", "english": "The beautiful-limbed" },
+            { "sanskrit": "shataanando", "english": "The one of hundred-fold bliss" },
+            { "sanskrit": "nandir", "english": "The one who is bliss" },
+            { "sanskrit": "JYortiRgaNeshvaraH", "english": "The lord of the hosts of luminaries" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vijitaatmaa", "english": "The one with a conquered Self (mind)" },
+            { "sanskrit": "vidheyaatmaa", "english": "The one whose Self is easily attainable" },
+            { "sanskrit": "satkiirti", "english": "The one of true fame" },
+            { "sanskrit": "chhinnasa.nshayaH", "english": "The one who has no doubts" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 67,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "udiirNaH", "english": "The transcendent" },
+            { "sanskrit": "sarvatas-chakshur", "english": "The one with eyes everywhere" },
+            { "sanskrit": "aniishaH", "english": "The one with no lord above him" },
+            { "sanskrit": "shaashvata sthiraH", "english": "The eternal and firm" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhooshayo", "english": "The one who rests on the earth (as an idol)" },
+            { "sanskrit": "bhooshhaNo", "english": "The ornament" },
+            { "sanskrit": "bhootir", "english": "The one who is pure existence" },
+            { "sanskrit": "vishokaH", "english": "The one without sorrow" },
+            { "sanskrit": "shoka naashanaH", "english": "The destroyer of sorrow" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 68,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "archishhmaan", "english": "The effulgent" },
+            { "sanskrit": "architaH", "english": "The worshipped" },
+            { "sanskrit": "kumbho", "english": "The pot (containing all)" },
+            { "sanskrit": "vishuddhaatmaa", "english": "The one with a completely pure Self" },
+            { "sanskrit": "vishodhanaH", "english": "The purifier" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aniruddho", "english": "The one who is not obstructed" },
+            { "sanskrit": "apratirathaH", "english": "The one with no opponent" },
+            { "sanskrit": "pradyumno", "english": "The very wealthy" },
+            { "sanskrit": "amitavikramaH", "english": "The one of immeasurable prowess" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 69,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "kaalaneminihaa", "english": "The slayer of the demon Kalanemi" },
+            { "sanskrit": "viiraH", "english": "The heroic" },
+            { "sanskrit": "shauriH", "english": "The son of Shura (Vasudeva)" },
+            { "sanskrit": "shuura janeshvaraH", "english": "The lord of heroic people" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "trilokaatmaa", "english": "The Self of the three worlds" },
+            { "sanskrit": "trilokeshaH", "english": "The Lord of the three worlds" },
+            { "sanskrit": "keshavaH", "english": "The one with beautiful hair" },
+            { "sanskrit": "keshihaa", "english": "The slayer of the demon Keshi" },
+            { "sanskrit": "hariH", "english": "The remover (of sins)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 70,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "kaamadevaH", "english": "The God of love" },
+            { "sanskrit": "kaamapaalaH", "english": "The protector of desires" },
+            { "sanskrit": "kaamii", "english": "The one who has all desires fulfilled" },
+            { "sanskrit": "kaantaH", "english": "The charming" },
+            { "sanskrit": "kRitaagamaH", "english": "The author of the Agamas (scriptures)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "anirdeshyavapur", "english": "The one with an indefinable form" },
+            { "sanskrit": "vishhNur", "english": "The all-pervading" },
+            { "sanskrit": "viiro", "english": "The heroic" },
+            { "sanskrit": "ananto", "english": "The infinite" },
+            { "sanskrit": "dhana.njayaH", "english": "The winner of wealth (as Arjuna)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 71,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "brahmaNyo", "english": "The one who is favorable to Brahman (Vedas, etc.)" },
+            { "sanskrit": "brahmakRit brahmaa", "english": "The one who performs Brahman (tapas) and is Brahma (the creator)" },
+            { "sanskrit": "brahma", "english": "The Brahman" },
+            { "sanskrit": "brahmavivardhanaH", "english": "The one who promotes Brahman" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "brahmavid", "english": "The knower of Brahman" },
+            { "sanskrit": "braahmaNo", "english": "The one who is in the form of a Brahmana" },
+            { "sanskrit": "brahmii", "english": "The one who controls all that is denoted by 'Brahma'" },
+            { "sanskrit": "brahmaGYo", "english": "The knower of the Vedas" },
+            { "sanskrit": "braahmaNapriyaH", "english": "The one who is dear to Brahmanas" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 72,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "mahaakramo", "english": "The one of great strides" },
+            { "sanskrit": "mahaakarmaa", "english": "The one of great deeds" },
+            { "sanskrit": "mahaatejaa", "english": "The one of great splendor" },
+            { "sanskrit": "mahoragaH", "english": "The great serpent (Adisesha)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "mahaakratur", "english": "The great sacrifice" },
+            { "sanskrit": "mahaayajvaa", "english": "The great performer of sacrifices" },
+            { "sanskrit": "mahaayaGYo", "english": "The great sacrifice (itself)" },
+            { "sanskrit": "mahaahaviH", "english": "The great oblation" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 73,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "stavyaH", "english": "The one who is to be praised" },
+            { "sanskrit": "stavapriyaH", "english": "The one fond of praise" },
+            { "sanskrit": "stotraM", "english": "The hymn" },
+            { "sanskrit": "stutiH", "english": "The act of praise" },
+            { "sanskrit": "stotaa", "english": "The one who praises" },
+            { "sanskrit": "raNapriyaH", "english": "The one fond of battle" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "puurNaH", "english": "The full" },
+            { "sanskrit": "puurayitaa", "english": "The fulfiller" },
+            { "sanskrit": "puNyaH", "english": "The meritorious" },
+            { "sanskrit": "puNyakiirtir", "english": "The one of meritorious fame" },
+            { "sanskrit": "anaamayaH", "english": "The one without disease" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 74,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "manojavas", "english": "The one with the speed of the mind" },
+            { "sanskrit": "tiirthakaro", "english": "The maker of holy places" },
+            { "sanskrit": "vasuretaa", "english": "The one whose seed is gold" },
+            { "sanskrit": "vasupradaH", "english": "The giver of wealth" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vasuprado", "english": "The giver of wealth" },
+            { "sanskrit": "vaasudevo", "english": "The son of Vasudeva" },
+            { "sanskrit": "vasur", "english": "The one in whom all dwell" },
+            { "sanskrit": "vasumanaa", "english": "The one with a benevolent mind" },
+            { "sanskrit": "haviH", "english": "The oblation" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 75,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sadgatiH", "english": "The true path" },
+            { "sanskrit": "satkRitiH", "english": "The one of good actions" },
+            { "sanskrit": "sattaa", "english": "The existence" },
+            { "sanskrit": "sadbhootiH", "english": "The true being" },
+            { "sanskrit": "satparaayaNaH", "english": "The supreme goal for the good" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "shuuraseno", "english": "The one with a heroic army" },
+            { "sanskrit": "yadushreshhThaH", "english": "The best of the Yadus" },
+            { "sanskrit": "sannivaasaH", "english": "The abode of the good" },
+            { "sanskrit": "suyaamunaH", "english": "The one attended by the good dwellers of Yamuna" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 76,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "bhootaavaaso", "english": "The dwelling place of all beings" },
+            { "sanskrit": "vaasudevaH", "english": "The one who pervades and sports" },
+            { "sanskrit": "sarva asu nilayo", "english": "The abode of all life-breaths" },
+            { "sanskrit": "analaH", "english": "The insatiable" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "darpahaa", "english": "The destroyer of pride" },
+            { "sanskrit": "darpado", "english": "The giver of pride" },
+            { "sanskrit": "adRipto", "english": "The one without pride" },
+            { "sanskrit": "durdharoath", "english": "The uncontainable" },
+            { "sanskrit": "aaparaajitaH", "english": "The unconquered" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 77,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vishvamuurtir", "english": "The one whose form is the universe" },
+            { "sanskrit": "mahaamuurtir", "english": "The great form" },
+            { "sanskrit": "diiptamuurtir", "english": "The radiant form" },
+            { "sanskrit": "amuurtimaan", "english": "The formless" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aneka muurtir", "english": "The one of many forms" },
+            { "sanskrit": "avyaktaH", "english": "The unmanifest" },
+            { "sanskrit": "shata muurtiH", "english": "The one of a hundred forms" },
+            { "sanskrit": "shataananaH", "english": "The one of a hundred faces" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 78,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "eko", "english": "The One" },
+            { "sanskrit": "naikaH", "english": "The Not-One (Many)" },
+            { "sanskrit": "sah", "english": "He" },
+            { "sanskrit": "vaH", "english": "That which is" },
+            { "sanskrit": "kaH", "english": "Who? (The one denoted by 'Ka')" },
+            { "sanskrit": "kiM", "english": "What? (The ultimate reality)" },
+            { "sanskrit": "yat", "english": "Which" },
+            { "sanskrit": "tat", "english": "That" },
+            { "sanskrit": "padam anuttamam", "english": "The supreme state" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "lokabandhur", "english": "The kinsman of the world" },
+            { "sanskrit": "lokanaatho", "english": "The Lord of the world" },
+            { "sanskrit": "maadhavo", "english": "The consort of Lakshmi" },
+            { "sanskrit": "bhaktavatsalaH", "english": "The one who is affectionate to devotees" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 79,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "suvarNovarNo", "english": "The one with a golden hue" },
+            { "sanskrit": "hemaaNgo", "english": "The one with golden limbs" },
+            { "sanskrit": "varaaNga", "english": "The one with beautiful limbs" },
+            { "sanskrit": "shchandanaaNgadii", "english": "The one with sandalwood-smeared armlets" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "viirahaa", "english": "The slayer of heroes" },
+            { "sanskrit": "vishhamaH", "english": "The unequal" },
+            { "sanskrit": "shuunyo", "english": "The void" },
+            { "sanskrit": "ghRitaashiir", "english": "The one who receives ghee-offerings" },
+            { "sanskrit": "achalash", "english": "and The unmoving" },
+            { "sanskrit": "chalaH", "english": "The moving" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 80,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "amaanii", "english": "The one without false pride" },
+            { "sanskrit": "maanado", "english": "The giver of honor" },
+            { "sanskrit": "maanyo", "english": "The honorable" },
+            { "sanskrit": "lokasvaamii", "english": "The Lord of the worlds" },
+            { "sanskrit": "tri loka dhRik", "english": "The supporter of the three worlds" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sumedhaa", "english": "The one of good intelligence" },
+            { "sanskrit": "medhajo", "english": "The one born of sacrifice" },
+            { "sanskrit": "dhanyaH", "english": "The fortunate" },
+            { "sanskrit": "satyamedhaa", "english": "The one of true intelligence" },
+            { "sanskrit": "dharaadharaH", "english": "The supporter of the earth" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 81,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "tejo vRishho", "english": "The one who showers radiance" },
+            { "sanskrit": "dyutidharaH", "english": "The bearer of splendor" },
+            { "sanskrit": "sarva shastra bhRitaaM varaH", "english": "The best among the wielders of all weapons" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "pragraho", "english": "The one who holds the reins" },
+            { "sanskrit": "nigraho", "english": "The one who restrains" },
+            { "sanskrit": "vyagro", "english": "The one without end" },
+            { "sanskrit": "naikashRiNgo", "english": "The one with many horns (forms)" },
+            { "sanskrit": "gadaagrajaH", "english": "The elder brother of Gada (Krishna)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 82,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "chaturmuurti", "english": "The four-formed" },
+            { "sanskrit": "chaturbaahu", "english": "The four-armed" },
+            { "sanskrit": "chaturvyuuha", "english": "The four-manifested" },
+            { "sanskrit": "chaturgatiH", "english": "The ultimate goal of the four (varnas and asramas)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "chaturaatmaa", "english": "The four-souled" },
+            { "sanskrit": "chaturbhaava", "english": "The source of the four (varnas)" },
+            { "sanskrit": "chaturvedavid", "english": "The knower of the four Vedas" },
+            { "sanskrit": "eka paat", "english": "The one-footed (pervading the universe with one quarter)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 83,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "samaavarto", "english": "The skillful turner (of the wheel of samsara)" },
+            { "sanskrit": "nivRittaatmaa", "english": "The one whose Self is detached" },
+            { "sanskrit": "durjayo", "english": "The unconquerable" },
+            { "sanskrit": "duratikramaH", "english": "The one who is difficult to overstep" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "durlabho", "english": "The one who is difficult to obtain" },
+            { "sanskrit": "durgamo", "english": "The one who is difficult to approach" },
+            { "sanskrit": "durgo", "english": "The fortress" },
+            { "sanskrit": "duraavaaso", "english": "The one who is difficult to house (in the mind)" },
+            { "sanskrit": "duraarihaa", "english": "The slayer of wicked enemies" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 84,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "shubhaaNgo", "english": "The one with auspicious limbs" },
+            { "sanskrit": "lokasaaraNgaH", "english": "The essence of the worlds" },
+            { "sanskrit": "sutantus", "english": "The beautiful thread (of the universe)" },
+            { "sanskrit": "tantuvardhanaH", "english": "The one who expands the thread" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "indra karmaa", "english": "The one whose actions are like Indra's" },
+            { "sanskrit": "mahaa karmaa", "english": "The one of great actions" },
+            { "sanskrit": "kRita karmaa", "english": "The one who has accomplished all actions" },
+            { "sanskrit": "kRitaagamaH", "english": "The author of the Vedas" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 85,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "udbhavaH", "english": "The source" },
+            { "sanskrit": "sundaraH", "english": "The beautiful" },
+            { "sanskrit": "sundo", "english": "The one of great compassion" },
+            { "sanskrit": "ratnanaabhaH", "english": "The one with a jewel-like navel" },
+            { "sanskrit": "sulochanaH", "english": "The one with beautiful eyes" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "arko", "english": "The one who is worshipped (like the sun)" },
+            { "sanskrit": "vaajasanaH", "english": "The giver of food" },
+            { "sanskrit": "shRiNgii", "english": "The horned one (as Matsya)" },
+            { "sanskrit": "jayantaH", "english": "The cause of victory" },
+            { "sanskrit": "sarva vij jayii", "english": "The all-knowing and all-victorious" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 86,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "suvarNabindur", "english": "The one with golden limbs" },
+            { "sanskrit": "akshobhyaH", "english": "The imperturbable" },
+            { "sanskrit": "sarva vaag eeshvar eshvaraH", "english": "The Lord of all lords of speech" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "mahaahRado", "english": "The great lake" },
+            { "sanskrit": "mahaagarto", "english": "The great abyss" },
+            { "sanskrit": "mahaabhooto", "english": "The great being" },
+            { "sanskrit": "mahaanidhH", "english": "The great treasure" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 87,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "kumudaH", "english": "The one who delights in the earth" },
+            { "sanskrit": "kundaraH", "english": "The one who offers jasmine-like purity" },
+            { "sanskrit": "kundaH", "english": "The jasmine flower" },
+            { "sanskrit": "parjanyaH", "english": "The rain cloud" },
+            { "sanskrit": "paavano", "english": "The purifier" },
+            { "sanskrit": "anilaH", "english": "The one who is ever-awake/air" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "amRitaasho", "english": "The one whose desires are immortal" },
+            { "sanskrit": "amRitavapuH", "english": "The one with an immortal body" },
+            { "sanskrit": "sarvaGYaH", "english": "The all-knowing" },
+            { "sanskrit": "sarvatomukhaH", "english": "The one with faces everywhere" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 88,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sulabhaH", "english": "The easily attainable" },
+            { "sanskrit": "suvrataH", "english": "The one of good vows" },
+            { "sanskrit": "siddhaH", "english": "The accomplished" },
+            { "sanskrit": "shatru jich chhatru taapanaH", "english": "The conqueror and tormentor of enemies" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "nyagrodho", "english": "The Banyan tree" },
+            { "sanskrit": "udumbaro", "english": "The Udumbara tree" },
+            { "sanskrit": "ashvattha", "english": "The Ashvattha (Peepal) tree" },
+            { "sanskrit": "shchaaNuura andhra nishhuudanaH", "english": "The slayer of Chanura, the champion of Andhra" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 89,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sahasraarchiH", "english": "The thousand-rayed" },
+            { "sanskrit": "saptajivhaH", "english": "The seven-tongued (fire)" },
+            { "sanskrit": "saptaidhaaH", "english": "The seven-flamed" },
+            { "sanskrit": "saptavaahanaH", "english": "The seven-vehicled (sun)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "amuurtir", "english": "The formless" },
+            { "sanskrit": "anagho", "english": "The sinless" },
+            { "sanskrit": "achintyo", "english": "The inconceivable" },
+            { "sanskrit": "bhayakRit", "english": "The creator of fear" },
+            { "sanskrit": "bhayanaashanaH", "english": "The destroyer of fear" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 90,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "aNur", "english": "The subtle atom" },
+            { "sanskrit": "bRihat", "english": "The great" },
+            { "sanskrit": "kRishaH", "english": "The slender" },
+            { "sanskrit": "sthuulo", "english": "The stout" },
+            { "sanskrit": "guNabhRin", "english": "The supporter of the Gunas" },
+            { "sanskrit": "nnirguNo", "english": "The one without Gunas" },
+            { "sanskrit": "mahaan", "english": "The great" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "adhRitaH", "english": "The unsupported" },
+            { "sanskrit": "svadhRitaH", "english": "The self-supported" },
+            { "sanskrit": "svaasyaH", "english": "The one with a beautiful face" },
+            { "sanskrit": "praagvansho", "english": "The one of the ancient lineage" },
+            { "sanskrit": "vanshavardhanaH", "english": "The one who enhances the lineage" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 91,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "bhaarabhRit", "english": "The bearer of the burden" },
+            { "sanskrit": "kathito", "english": "The one spoken of (in scriptures)" },
+            { "sanskrit": "yogii", "english": "The Yogi" },
+            { "sanskrit": "yogiishaH", "english": "The Lord of Yogis" },
+            { "sanskrit": "sarvakaamadaH", "english": "The giver of all desires" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aashramaH", "english": "The hermitage/resting place" },
+            { "sanskrit": "shramaNaH", "english": "The one who makes ascetics strive" },
+            { "sanskrit": "kshaamaH", "english": "The one who makes things dwindle" },
+            { "sanskrit": "suparNo", "english": "The one with beautiful wings (Garuda)" },
+            { "sanskrit": "vaayuvaahanaH", "english": "The one who makes the wind his vehicle" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 92,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "dhanurdharo", "english": "The wielder of the bow" },
+            { "sanskrit": "dhanurvedo", "english": "The knower of the science of archery" },
+            { "sanskrit": "daNDo", "english": "The punisher" },
+            { "sanskrit": "damayitaa", "english": "The subduer" },
+            { "sanskrit": "damaH", "english": "The one who is self-control" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aparaajitaH", "english": "The unconquered" },
+            { "sanskrit": "sarvasaho", "english": "The all-bearing" },
+            { "sanskrit": "niyantaa", "english": "The controller" },
+            { "sanskrit": "niyamo", "english": "The rule" },
+            { "sanskrit": "yamaH", "english": "The one who is restraint" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 93,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sattvavaan", "english": "The one endowed with fortitude" },
+            { "sanskrit": "saattvikaH", "english": "The one who is full of Sattva-guna" },
+            { "sanskrit": "satyaH", "english": "The Truth" },
+            { "sanskrit": "satya dharma paraayaNaH", "english": "The one devoted to true Dharma" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "abhipraayaH", "english": "The one who is the object of desire" },
+            { "sanskrit": "priyaarho", "english": "The one worthy of love" },
+            { "sanskrit": "arhaH", "english": "The worthy one" },
+            { "sanskrit": "priyakRit", "english": "The doer of good" },
+            { "sanskrit": "priitivardhanaH", "english": "The one who increases joy" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 94,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vihaayasa gatir", "english": "The one whose path is through the sky" },
+            { "sanskrit": "jyotiH", "english": "The light" },
+            { "sanskrit": "suruchir", "english": "The one of beautiful radiance" },
+            { "sanskrit": "hutabhug", "english": "The enjoyer of sacrificial offerings" },
+            { "sanskrit": "vibhuH", "english": "The all-pervading" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ravir", "english": "The sun" },
+            { "sanskrit": "virochanaH", "english": "The one who shines in various ways" },
+            { "sanskrit": "suuryaH", "english": "The sun god" },
+            { "sanskrit": "savitaa", "english": "The producer" },
+            { "sanskrit": "ravi lochanaH", "english": "The one with the sun as his eye" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 95,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ananto", "english": "The infinite" },
+            { "sanskrit": "hutabhugbhoktaa", "english": "The eater and enjoyer of sacrifices" },
+            { "sanskrit": "sukhado", "english": "The giver of happiness" },
+            { "sanskrit": "naikajo", "english": "The one born many times" },
+            { "sanskrit": "agrajaH", "english": "The first-born" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "anirviNNaH", "english": "The one without despair" },
+            { "sanskrit": "sadaa marshhii", "english": "The ever-forgiving" },
+            { "sanskrit": "lok adhi shhThaanam", "english": "The substratum of the world" },
+            { "sanskrit": "adbhutaH", "english": "The wonderful" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 96,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sanaat", "english": "The beginningless" },
+            { "sanskrit": "sanaatana tamaH", "english": "The most ancient" },
+            { "sanskrit": "kapilaH", "english": "The sage Kapila" },
+            { "sanskrit": "kapiravyayaH", "english": "The imperishable monkey (Sun) who drinks water" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "svastidaH", "english": "The giver of well-being" },
+            { "sanskrit": "svastikRit", "english": "The maker of well-being" },
+            { "sanskrit": "svasti", "english": "The one who is well-being" },
+            { "sanskrit": "svastibhuk", "english": "The enjoyer of well-being" },
+            { "sanskrit": "svasti dakshiNaH", "english": "The one who is the benevolent bestower of well-being" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 97,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "a raudraH", "english": "The one who is not fierce" },
+            { "sanskrit": "kuNDalii", "english": "The one with earrings" },
+            { "sanskrit": "chakrii", "english": "The wielder of the discus" },
+            { "sanskrit": "vikramee", "english": "The valiant" },
+            { "sanskrit": "yuurjitashaasanaH", "english": "The one whose commands are powerful" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "shabdaatigaH", "english": "The one beyond words" },
+            { "sanskrit": "shabdasahaH", "english": "The one who bears all sounds" },
+            { "sanskrit": "shishiraH", "english": "The cool (soothing)" },
+            { "sanskrit": "sharvariikaraH", "english": "The maker of the night" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 98,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "akruuraH", "english": "The one who is not cruel" },
+            { "sanskrit": "peshalo", "english": "The skillful" },
+            { "sanskrit": "daksho", "english": "The clever" },
+            { "sanskrit": "dakshiNaH", "english": "The courteous" },
+            { "sanskrit": "kshamiNaaM varaH", "english": "The best among the forbearing" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vidvattamo", "english": "The most wise" },
+            { "sanskrit": "viitabhayaH", "english": "The one free from fear" },
+            { "sanskrit": "puNya shravaNa kiirtanaH", "english": "The one whose hearing and chanting are meritorious" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 99,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "uttaaraNo", "english": "The one who lifts up" },
+            { "sanskrit": "dushhkRitihaa", "english": "The destroyer of evil deeds" },
+            { "sanskrit": "puNyo", "english": "The meritorious" },
+            { "sanskrit": "duH svapna naashanaH", "english": "The destroyer of bad dreams" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "veerahaa", "english": "The slayer of heroes (of samsara)" },
+            { "sanskrit": "rakshaNaH", "english": "The protector" },
+            { "sanskrit": "santo", "english": "The existent one" },
+            { "sanskrit": "jiivanaH", "english": "The life-giver" },
+            { "sanskrit": "paryavasthitaH", "english": "The one who pervades everywhere" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 100,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ananantaruupo", "english": "The one of infinite forms" },
+            { "sanskrit": "anantashreer", "english": "The one of infinite glory" },
+            { "sanskrit": "jitamanyur", "english": "The one who has conquered anger" },
+            { "sanskrit": "bhayaapahaH", "english": "The remover of fear" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "chaturasro", "english": "The four-cornered (just)" },
+            { "sanskrit": "gabhiiraatmaa", "english": "The one with a profound Self" },
+            { "sanskrit": "vidisho", "english": "The one who assigns various duties" },
+            { "sanskrit": "vyaadisho", "english": "The one who gives various commands" },
+            { "sanskrit": "dishaH", "english": "The one who is the directions" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 101,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "anaadir", "english": "The one without beginning" },
+            { "sanskrit": "bhoorbhuvo", "english": "The support of the earth" },
+            { "sanskrit": "lakshmiiH", "english": "The splendor" },
+            { "sanskrit": "suviiro", "english": "The one of great valor" },
+            { "sanskrit": "ruchiraaNgadaH", "english": "The one with beautiful armlets" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "janano", "english": "The generator" },
+            { "sanskrit": "jana janmaa dir", "english": "The cause of birth of all beings" },
+            { "sanskrit": "bheemo", "english": "The terrible" },
+            { "sanskrit": "bhiimaparaakramaH", "english": "The one of terrible prowess" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 102,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "aadhaaranilayo", "english": "The fundamental support" },
+            { "sanskrit": "dhaataa", "english": "The supporter" },
+            { "sanskrit": "pushhpa haasaH", "english": "The one who blossoms like a flower-smile" },
+            { "sanskrit": "prajaagaraH", "english": "The ever-awake" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "uurdhvagaH", "english": "The one who is above all" },
+            { "sanskrit": "satpathaachaaraH", "english": "The one who walks the path of truth" },
+            { "sanskrit": "praaNadaH", "english": "The giver of life" },
+            { "sanskrit": "praNavaH", "english": "The Pranava (OM)" },
+            { "sanskrit": "paNaH", "english": "The one who is the transaction (of the universe)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 103,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "pramaaNaM", "english": "The authority" },
+            { "sanskrit": "praaNanilayaH", "english": "The abode of Prana" },
+            { "sanskrit": "praaNabhRit", "english": "The supporter of Prana" },
+            { "sanskrit": "praaNajiivanaH", "english": "The one who makes beings live through Prana" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "tattvaM", "english": "The reality" },
+            { "sanskrit": "tattvavid", "english": "The knower of reality" },
+            { "sanskrit": "ekaatmaa", "english": "The one Self" },
+            { "sanskrit": "janma mRityu jar aatigaH", "english": "The one who transcends birth, death, and old age" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 104,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "bhoorbhavaH svastarus", "english": "The tree of the three worlds (bhu, bhuva, sva)" },
+            { "sanskrit": "taaraH", "english": "The one who helps cross over" },
+            { "sanskrit": "savitaa", "english": "The father" },
+            { "sanskrit": "pra pitaamahaH", "english": "The great-grandfather" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "yaGYo", "english": "The sacrifice" },
+            { "sanskrit": "yaGYapatir", "english": "The lord of sacrifice" },
+            { "sanskrit": "yajvaa", "english": "The performer of sacrifice" },
+            { "sanskrit": "yaGYaaNgo", "english": "The one whose limbs are the sacrifice" },
+            { "sanskrit": "yaGYavaahanaH", "english": "The vehicle of sacrifice" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 105,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "yaGYabhRid", "english": "The protector of sacrifice" },
+            { "sanskrit": "yaGYakRid", "english": "The creator of sacrifice" },
+            { "sanskrit": "yaGYii", "english": "The enjoyer of sacrifice" },
+            { "sanskrit": "yaGYabhug", "english": "The consumer of sacrifice" },
+            { "sanskrit": "yaGYasaadhanaH", "english": "The means of sacrifice" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "yaGYaantakRid", "english": "The performer of the concluding part of a sacrifice" },
+            { "sanskrit": "yaGYaguhyam", "english": "The secret of sacrifice" },
+            { "sanskrit": "annam", "english": "The food" },
+            { "sanskrit": "annaada", "english": "The eater of food" },
+            { "sanskrit": "eva", "english": "also" },
+            { "sanskrit": "cha", "english": "and" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 106,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "aatmayoniH", "english": "The self-originated" },
+            { "sanskrit": "svayaM jaato", "english": "The self-born" },
+            { "sanskrit": "vaikhaanaH", "english": "The digger (who dug out the earth as Varaha)" },
+            { "sanskrit": "saamagaayanaH", "english": "The singer of Sama hymns" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "devakii nandanaH", "english": "The son of Devaki" },
+            { "sanskrit": "srashhTaa", "english": "The creator" },
+            { "sanskrit": "kshitiishaH", "english": "The Lord of the earth" },
+            { "sanskrit": "paapa naashanaH", "english": "The destroyer of sins" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 107,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "shaNkhabhRin", "english": "The bearer of the conch (Panchajanya)" },
+            { "sanskrit": "nandakii", "english": "The wielder of the sword (Nandaka)" },
+            { "sanskrit": "chakree", "english": "The wielder of the discus (Sudarshana)" },
+            { "sanskrit": "shaarNgar dhanvaa", "english": "The wielder of the Sharnga bow" },
+            { "sanskrit": "gadaadharaH", "english": "The bearer of the mace (Kaumodaki)" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "rath aaNga paaNir", "english": "The one with a chariot wheel in hand" },
+            { "sanskrit": "akshobhyaH", "english": "The imperturbable" },
+            { "sanskrit": "sarva praharaNaa yudhaH", "english": "The one who has all implements as weapons" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 108,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vanamaali", "english": "The one wearing a forest garland" },
+            { "sanskrit": "gadee", "english": "The one with a mace" },
+            { "sanskrit": "shaarngii", "english": "The one with the Sharnga bow" },
+            { "sanskrit": "shankhii", "english": "The one with a conch" },
+            { "sanskrit": "chakrii", "english": "The one with a discus" },
+            { "sanskrit": "cha", "english": "and" },
+            { "sanskrit": "nandakii", "english": "The one with the Nandaka sword" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sriimaan", "english": "The glorious" },
+            { "sanskrit": "naaraayano", "english": "Narayana" },
+            { "sanskrit": "vishnur", "english": "Vishnu" },
+            { "sanskrit": "vaasudevo", "english": "Vasudeva" },
+            { "sanskrit": "abhirakshathu", "english": "may he protect" }
+          ]
+        }
+      ]
+    }
+  ]
+}

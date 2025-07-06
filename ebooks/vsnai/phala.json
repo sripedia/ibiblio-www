@@ -1,0 +1,920 @@
+{
+  "verses": [
+    {
+      "verseNumber": 1,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "itiidaM", "english": "Thus this" },
+            { "sanskrit": "kiirtaniiyasya", "english": "of the one worthy of being praised" },
+            { "sanskrit": "keshavasya", "english": "of Keshava" },
+            { "sanskrit": "mahaatmanaH", "english": "of the great-souled one" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "naamnaaM", "english": "of the names" },
+            { "sanskrit": "sahasraM", "english": "thousand" },
+            { "sanskrit": "divyaanaam", "english": "of the divine" },
+            { "sanskrit": "asheshheNa", "english": "completely" },
+            { "sanskrit": "prakiirtitam", "english": "has been sung" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "ya", "english": "He who" },
+            { "sanskrit": "edaM", "english": "this" },
+            { "sanskrit": "shrunyaa-Nityam", "english": "hears daily" },
+            { "sanskrit": "yashchapi", "english": "and also who" },
+            { "sanskrit": "parikirtayaet", "english": "recites" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "Naa-aShubham", "english": "No inauspiciousness" },
+            { "sanskrit": "praapnuyat", "english": "attains" },
+            { "sanskrit": "kinchit", "english": "anything" },
+            { "sanskrit": "saḥ", "english": "he" },
+            { "sanskrit": "iha", "english": "here" },
+            { "sanskrit": "amutra", "english": "and in the hereafter" },
+            { "sanskrit": "cha", "english": "and" },
+            { "sanskrit": "manavaH", "english": "the man" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "veedantago", "english": "A knower of Vedanta" },
+            { "sanskrit": "brahmana-asyat", "english": "a Brahmana would be" },
+            { "sanskrit": "Kshatriyo", "english": "a Kshatriya" },
+            { "sanskrit": "vijayee", "english": "victorious" },
+            { "sanskrit": "bhavaet", "english": "would become" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vaishyo", "english": "a Vaishya" },
+            { "sanskrit": "dhana-SamRidhasya-", "english": "would be blessed with wealth" },
+            { "sanskrit": "chhuudra-sukhamvaapnuyaat", "english": "a Shudra would attain happiness" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "dharmaarthii", "english": "One who seeks Dharma" },
+            { "sanskrit": "praapnuyaad-dharmam", "english": "attains Dharma" },
+            { "sanskrit": "arthaarthii", "english": "one who seeks wealth" },
+            { "sanskrit": "cha", "english": "and" },
+            { "sanskrit": "arthamaapnuyaat", "english": "attains wealth" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "kaamaanava.apnuyaatkaamii", "english": "a seeker of desires attains desires" },
+            { "sanskrit": "prajaarthii", "english": "one who seeks progeny" },
+            { "sanskrit": "cha-apnuyaat", "english": "and attains" },
+            { "sanskrit": "prajaaH", "english": "progeny" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "bhaktimaan", "english": "The devotee" },
+            { "sanskrit": "yaH", "english": "who" },
+            { "sanskrit": "sadotthaaya", "english": "always rising (early)" },
+            { "sanskrit": "shuchistadgatamaanasaH", "english": "with purity and a mind fixed on Him" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sahasraM", "english": "the thousand" },
+            { "sanskrit": "vaasudevasya", "english": "of Vasudeva" },
+            { "sanskrit": "naamnaam", "english": "names" },
+            { "sanskrit": "etat", "english": "this" },
+            { "sanskrit": "prakiirtayet", "english": "recites" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "yashaH", "english": "Fame" },
+            { "sanskrit": "praapnoti", "english": "he attains" },
+            { "sanskrit": "vipulaM", "english": "great" },
+            { "sanskrit": "GYaatipraadhaanyam", "english": "eminence among his kin" },
+            { "sanskrit": "eva", "english": "indeed" },
+            { "sanskrit": "cha", "english": "and" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "achalaaM", "english": "unwavering" },
+            { "sanskrit": "shriyam", "english": "prosperity" },
+            { "sanskrit": "aapnoti", "english": "he obtains" },
+            { "sanskrit": "shreyaH", "english": "good fortune" },
+            { "sanskrit": "praapnoti", "english": "he attains" },
+            { "sanskrit": "anuttamam", "english": "unsurpassed" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 7,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "na", "english": "No" },
+            { "sanskrit": "bhayaM", "english": "fear" },
+            { "sanskrit": "kvachid", "english": "anywhere" },
+            { "sanskrit": "aapnoti", "english": "he gets" },
+            { "sanskrit": "viiryaM", "english": "valor" },
+            { "sanskrit": "tejashcha", "english": "and brilliance" },
+            { "sanskrit": "vindati", "english": "he finds/gains" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhavatyarogo", "english": "He becomes free from disease" },
+            { "sanskrit": "dyutimaan", "english": "resplendent" },
+            { "sanskrit": "bala-ruupa-guNaanvitaH", "english": "endowed with strength, beauty, and good qualities" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 8,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "rogaarto", "english": "One afflicted by disease" },
+            { "sanskrit": "muchyate", "english": "is freed" },
+            { "sanskrit": "rogaad", "english": "from the disease" },
+            { "sanskrit": "baddho", "english": "one who is bound" },
+            { "sanskrit": "muchyeta", "english": "is freed" },
+            { "sanskrit": "bandhanaat", "english": "from bondage" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhayaan", "english": "From fears" },
+            { "sanskrit": "muchyeta", "english": "is freed" },
+            { "sanskrit": "bhiitastu", "english": "one who is afraid" },
+            { "sanskrit": "muchyetaapanna", "english": "one in calamity is freed" },
+            { "sanskrit": "aapadaH", "english": "from the calamity" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 9,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "durgaaN", "english": "Difficulties" },
+            { "sanskrit": "yatitarat", "english": "crosses over" },
+            { "sanskrit": "yaashu", "english": "quickly" },
+            { "sanskrit": "purushhaH", "english": "the person" },
+            { "sanskrit": "purushhottamam", "english": "the Supreme Person" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "stuvan", "english": "praising" },
+            { "sanskrit": "naama", "english": "names" },
+            { "sanskrit": "sahasreNa", "english": "with the thousand" },
+            { "sanskrit": "nityaM", "english": "always" },
+            { "sanskrit": "bhakti", "english": "with devotion" },
+            { "sanskrit": "samanvitaH", "english": "endowed" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 10,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vaasudevaashrayo", "english": "One who has taken refuge in Vasudeva" },
+            { "sanskrit": "martyo", "english": "a mortal" },
+            { "sanskrit": "vaasudevaparaayaNaH", "english": "who is devoted to Vasudeva" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sarvapaapa-vishuddhaatmaa", "english": "with a soul purified of all sins" },
+            { "sanskrit": "yaati", "english": "goes to" },
+            { "sanskrit": "brahma", "english": "Brahman" },
+            { "sanskrit": "sanaatanam", "english": "the eternal" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 11,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "na", "english": "Not" },
+            { "sanskrit": "vaasudeva", "english": "of Vasudeva's" },
+            { "sanskrit": "bhaktaanaam", "english": "for the devotees" },
+            { "sanskrit": "ashubhaM", "english": "inauspiciousness" },
+            { "sanskrit": "vidyate", "english": "is found" },
+            { "sanskrit": "kvachit", "english": "anywhere" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "janma", "english": "Of birth" },
+            { "sanskrit": "mRityu", "english": "death" },
+            { "sanskrit": "jaraa", "english": "old age" },
+            { "sanskrit": "vyaadhi", "english": "disease" },
+            { "sanskrit": "bhayaM", "english": "fear" },
+            { "sanskrit": "naiva", "english": "not indeed" },
+            { "sanskrit": "api", "english": "also" },
+            { "sanskrit": "jaayate", "english": "is born/arises" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 12,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "imaM", "english": "This" },
+            { "sanskrit": "stavam", "english": "hymn" },
+            { "sanskrit": "adhiiyaanaH", "english": "one who studies" },
+            { "sanskrit": "shraddhaa", "english": "with faith" },
+            { "sanskrit": "bhakti", "english": "and devotion" },
+            { "sanskrit": "samanvitaH", "english": "endowed" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "yujyetaatmaa", "english": "is joined with the self" },
+            { "sanskrit": "sukha", "english": "with happiness" },
+            { "sanskrit": "kshaanti", "english": "patience" },
+            { "sanskrit": "shrii", "english": "prosperity" },
+            { "sanskrit": "dhRiti", "english": "fortitude" },
+            { "sanskrit": "smRiti", "english": "memory" },
+            { "sanskrit": "kiirtibhiH", "english": "and fame" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 13,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "na", "english": "No" },
+            { "sanskrit": "krodho", "english": "anger" },
+            { "sanskrit": "na", "english": "nor" },
+            { "sanskrit": "cha", "english": "and" },
+            { "sanskrit": "maatsaryaM", "english": "jealousy" },
+            { "sanskrit": "na", "english": "no" },
+            { "sanskrit": "lobho", "english": "greed" },
+            { "sanskrit": "na", "english": "nor" },
+            { "sanskrit": "ashubhaa", "english": "impure" },
+            { "sanskrit": "matiH", "english": "thought" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhavanti", "english": "arise" },
+            { "sanskrit": "kRita", "english": "of the doers" },
+            { "sanskrit": "puNyaanaaM", "english": "of meritorious deeds" },
+            { "sanskrit": "bhaktaanaaM", "english": "of the devotees" },
+            { "sanskrit": "purushhottame", "english": "of the Supreme Person" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 14,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "dyauH", "english": "The heavens" },
+            { "sanskrit": "sa-chandraarka", "english": "with the moon and sun" },
+            { "sanskrit": "nakshatraa", "english": "and stars" },
+            { "sanskrit": "khaM", "english": "the sky" },
+            { "sanskrit": "disho", "english": "the directions" },
+            { "sanskrit": "bhuur", "english": "the earth" },
+            { "sanskrit": "mahodadhiH", "english": "the great ocean" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vaasudevasya", "english": "by Vasudeva's" },
+            { "sanskrit": "viiryeNa", "english": "by the power" },
+            { "sanskrit": "vidhRitaani", "english": "are held/supported" },
+            { "sanskrit": "mahaatmanaH", "english": "of the Great Soul" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 15,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sa", "english": "With" },
+            { "sanskrit": "sura", "english": "gods" },
+            { "sanskrit": "asura", "english": "demons" },
+            { "sanskrit": "gandharvaM", "english": "and celestial musicians" },
+            { "sanskrit": "sa", "english": "with" },
+            { "sanskrit": "yaksho", "english": "Yakshas" },
+            { "sanskrit": "raga", "english": "Nagas (serpents)" },
+            { "sanskrit": "raakshasam", "english": "and Rakshasas" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "jagat", "english": "The world" },
+            { "sanskrit": "vashe", "english": "under the control" },
+            { "sanskrit": "vartate", "english": "remains" },
+            { "sanskrit": "idaM", "english": "this" },
+            { "sanskrit": "kRishhNasya", "english": "of Krishna" },
+            { "sanskrit": "sa", "english": "with" },
+            { "sanskrit": "chara", "english": "the moving" },
+            { "sanskrit": "acharam", "english": "and the non-moving" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 16,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "indriyaaNi", "english": "The senses" },
+            { "sanskrit": "mano", "english": "mind" },
+            { "sanskrit": "buddhiH", "english": "intellect" },
+            { "sanskrit": "sattvaM", "english": "existence/consciousness" },
+            { "sanskrit": "tejo", "english": "radiance" },
+            { "sanskrit": "balaM", "english": "strength" },
+            { "sanskrit": "dhritiH", "english": "fortitude" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vaasudeva.atmakaany", "english": "have Vasudeva as their inner Self" },
+            { "sanskrit": "aahuH", "english": "they say" },
+            { "sanskrit": "kshetraM", "english": "the field (body)" },
+            { "sanskrit": "kshetraGYa", "english": "the knower of the field (soul)" },
+            { "sanskrit": "eva", "english": "indeed" },
+            { "sanskrit": "cha", "english": "and" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 17,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "sarvaagamaanaa.m", "english": "Of all scriptures" },
+            { "sanskrit": "aachaaraH", "english": "good conduct" },
+            { "sanskrit": "prathamaM", "english": "first" },
+            { "sanskrit": "parikalpate", "english": "is considered" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "aacharaprabhavo", "english": "From good conduct springs" },
+            { "sanskrit": "dharmo", "english": "Dharma (righteousness)" },
+            { "sanskrit": "dharmasya", "english": "of Dharma" },
+            { "sanskrit": "prabhur", "english": "the Lord" },
+            { "sanskrit": "achyutaH", "english": "is Achyuta (the infallible one)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 18,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "RishhayaH", "english": "The sages" },
+            { "sanskrit": "pitaro", "english": "ancestors" },
+            { "sanskrit": "devaa", "english": "gods" },
+            { "sanskrit": "mahaabhuutaani", "english": "the great elements" },
+            { "sanskrit": "dhaatavaH", "english": "the constituents" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "jaNgamaa", "english": "The moving" },
+            { "sanskrit": "jaNgamaM", "english": "and the non-moving" },
+            { "sanskrit": "chedaM", "english": "and this" },
+            { "sanskrit": "jagat", "english": "universe" },
+            { "sanskrit": "naaraayaN.odbhavam", "english": "has originated from Narayana" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 19,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "yogo", "english": "Yoga" },
+            { "sanskrit": "GYaanaM", "english": "knowledge" },
+            { "sanskrit": "tathaa", "english": "and also" },
+            { "sanskrit": "saa.nkhyaM", "english": "Sankhya" },
+            { "sanskrit": "vidyaaH", "english": "sciences" },
+            { "sanskrit": "shilpaadi", "english": "arts, crafts, etc." },
+            { "sanskrit": "karma", "english": "action" },
+            { "sanskrit": "cha", "english": "and" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vedaaH", "english": "The Vedas" },
+            { "sanskrit": "shaastraaNi", "english": "scriptures" },
+            { "sanskrit": "viGYaanam", "english": "wisdom" },
+            { "sanskrit": "etat", "english": "all this" },
+            { "sanskrit": "sarvaM", "english": "everything" },
+            { "sanskrit": "janaardanaat", "english": "is from Janardana" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 20,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "eko", "english": "The one" },
+            { "sanskrit": "vishhNur", "english": "Vishnu" },
+            { "sanskrit": "mahadbhuutaM", "english": "is the great being" },
+            { "sanskrit": "pRithag", "english": "as separate" },
+            { "sanskrit": "bhuutaany", "english": "beings" },
+            { "sanskrit": "anekashaH", "english": "in many forms" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "trii.n", "english": "The three" },
+            { "sanskrit": "lokaan", "english": "worlds" },
+            { "sanskrit": "vyaapya", "english": "pervading" },
+            { "sanskrit": "bhuutaatmaa", "english": "the soul of all beings" },
+            { "sanskrit": "bhu.nkte", "english": "enjoys/protects" },
+            { "sanskrit": "vishvabhug", "english": "the enjoyer of the universe" },
+            { "sanskrit": "avyayaH", "english": "the imperishable one" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 21,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "imaM", "english": "This" },
+            { "sanskrit": "stavaM", "english": "hymn" },
+            { "sanskrit": "bhagavato", "english": "of the glorious" },
+            { "sanskrit": "vishhNor", "english": "Vishnu" },
+            { "sanskrit": "vyaasena", "english": "by Vyasa" },
+            { "sanskrit": "kiirtitam", "english": "sung" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "paThed", "english": "Should read" },
+            { "sanskrit": "ya", "english": "who" },
+            { "sanskrit": "ichchhet", "english": "wishes" },
+            { "sanskrit": "purushhaH", "english": "the person" },
+            { "sanskrit": "shreyaH", "english": "good fortune" },
+            { "sanskrit": "praaptuM", "english": "to attain" },
+            { "sanskrit": "sukhaani", "english": "happiness" },
+            { "sanskrit": "cha", "english": "and" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 22,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vishveshvaram", "english": "To the Lord of the universe" },
+            { "sanskrit": "ajaM", "english": "the unborn" },
+            { "sanskrit": "devaM", "english": "the God" },
+            { "sanskrit": "jagataH", "english": "of the universe" },
+            { "sanskrit": "prabhavaapyayam", "english": "the source and dissolution" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhajanti", "english": "worship" },
+            { "sanskrit": "ye", "english": "those who" },
+            { "sanskrit": "pushkaraakshaM", "english": "the lotus-eyed one" },
+            { "sanskrit": "na", "english": "not" },
+            { "sanskrit": "te", "english": "they" },
+            { "sanskrit": "yaanti", "english": "go" },
+            { "sanskrit": "paraabhavam", "english": "to defeat" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "na", "english": "Not" },
+            { "sanskrit": "te", "english": "they" },
+            { "sanskrit": "yaanti", "english": "go" },
+            { "sanskrit": "paraabhavam", "english": "to defeat" },
+            { "sanskrit": "oM", "english": "Om" },
+            { "sanskrit": "nama", "english": "salutations" },
+            { "sanskrit": "iti", "english": "thus" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 23,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "Arjuna", "english": "Arjuna" },
+            { "sanskrit": "uvaacha", "english": "said" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "padmapatra", "english": "O one with eyes like lotus" },
+            { "sanskrit": "vishaalaaksha", "english": "petals, large-eyed one" },
+            { "sanskrit": "padmanaabha", "english": "O one with a lotus in your navel" },
+            { "sanskrit": "surottama", "english": "O best among the gods" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhaktaanaam", "english": "Of the devotees" },
+            { "sanskrit": "anuraktaanaaM", "english": "who are attached (to you)" },
+            { "sanskrit": "traataa", "english": "the protector" },
+            { "sanskrit": "bhava", "english": "be" },
+            { "sanskrit": "janaardana", "english": "O Janardana" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 24,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "shrii bhagavaan", "english": "The Glorious Lord" },
+            { "sanskrit": "uvaacha", "english": "said" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "yo", "english": "He who" },
+            { "sanskrit": "maaM", "english": "Me" },
+            { "sanskrit": "naama", "english": "with names" },
+            { "sanskrit": "sahasreNa", "english": "thousand" },
+            { "sanskrit": "stotum-ichchhati", "english": "wishes to praise" },
+            { "sanskrit": "paaNDava", "english": "O son of Pandu" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "soha.am", "english": "I am" },
+            { "sanskrit": "ekena", "english": "by one" },
+            { "sanskrit": "shlokena", "english": "verse" },
+            { "sanskrit": "stuta", "english": "praised" },
+            { "sanskrit": "eva", "english": "certainly" },
+            { "sanskrit": "na", "english": "no" },
+            { "sanskrit": "saMshayaH", "english": "doubt" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "stuta", "english": "Praised" },
+            { "sanskrit": "eva", "english": "certainly" },
+            { "sanskrit": "na", "english": "no" },
+            { "sanskrit": "saMshaya", "english": "doubt" },
+            { "sanskrit": "oM", "english": "Om" },
+            { "sanskrit": "nama", "english": "salutations" },
+            { "sanskrit": "iti", "english": "thus" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 25,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "vyaasa", "english": "Vyasa" },
+            { "sanskrit": "uvaacha", "english": "said" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "vaasanaad", "english": "From dwelling/enveloping" },
+            { "sanskrit": "vaasudevasya", "english": "of Vasudeva" },
+            { "sanskrit": "vaasitaM", "english": "is pervaded" },
+            { "sanskrit": "te", "english": "by you" },
+            { "sanskrit": "jagatrayam", "english": "the three worlds" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sarvabhuuta", "english": "In all beings" },
+            { "sanskrit": "nivaaso", "english": "the abode" },
+            { "sanskrit": "asi", "english": "you are" },
+            { "sanskrit": "vaasudeva", "english": "O Vasudeva" },
+            { "sanskrit": "namostu", "english": "salutations" },
+            { "sanskrit": "te", "english": "to you" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 26,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "paarvaty", "english": "Parvati" },
+            { "sanskrit": "uvaacha", "english": "said" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "kena", "english": "By what" },
+            { "sanskrit": "upaayena", "english": "means" },
+            { "sanskrit": "laghunaa", "english": "short/easy" },
+            { "sanskrit": "vishhNor", "english": "of Vishnu" },
+            { "sanskrit": "naama", "english": "names" },
+            { "sanskrit": "sahasrakam", "english": "the thousand" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "paThyate", "english": "are recited" },
+            { "sanskrit": "panDitair", "english": "by the learned" },
+            { "sanskrit": "nityam", "english": "daily" },
+            { "sanskrit": "shrotum", "english": "to hear" },
+            { "sanskrit": "ichchhaami", "english": "I wish" },
+            { "sanskrit": "aham", "english": "I" },
+            { "sanskrit": "prabho", "english": "O Lord" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 27,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "iishvara", "english": "Ishvara (Lord Shiva)" },
+            { "sanskrit": "uvaacha", "english": "said" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "shriiraama", "english": "Shri Rama" },
+            { "sanskrit": "raama", "english": "Rama" },
+            { "sanskrit": "raameti", "english": "Rama, thus" },
+            { "sanskrit": "rame", "english": "I rejoice" },
+            { "sanskrit": "raame", "english": "in Rama" },
+            { "sanskrit": "manorame", "english": "the charming one" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sahasra", "english": "Thousand" },
+            { "sanskrit": "naama", "english": "names" },
+            { "sanskrit": "tat", "english": "that" },
+            { "sanskrit": "tulyam", "english": "is equivalent to" },
+            { "sanskrit": "raamanaama", "english": "the name of Rama" },
+            { "sanskrit": "varaanane", "english": "O beautiful-faced one" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 28,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "brahma", "english": "Brahma" },
+            { "sanskrit": "uvaacha", "english": "said" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "namo", "english": "Salutations" },
+            { "sanskrit": "astu", "english": "let there be" },
+            { "sanskrit": "anantaaya", "english": "to the infinite one" },
+            { "sanskrit": "sahasra", "english": "with a thousand" },
+            { "sanskrit": "muurttaye", "english": "forms" },
+            { "sanskrit": "sahasra", "english": "with a thousand" },
+            { "sanskrit": "paadaakshi", "english": "feet, eyes" },
+            { "sanskrit": "shiroru", "english": "heads, thighs" },
+            { "sanskrit": "baahave", "english": "and arms" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sahasranaamne", "english": "To the one with a thousand names" },
+            { "sanskrit": "purushhaaya", "english": "to the person" },
+            { "sanskrit": "shaashvate", "english": "the eternal one" },
+            { "sanskrit": "sahasrakoTii", "english": "to the one who holds a thousand crore" },
+            { "sanskrit": "yugadhaariNe", "english": "(of) Yugas (aeons)" },
+            { "sanskrit": "namaH", "english": "salutations" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 29,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "saJNjaya", "english": "Sanjaya" },
+            { "sanskrit": "uvaacha", "english": "said" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "yatra", "english": "Wherever" },
+            { "sanskrit": "yogeshvaraH", "english": "the Lord of Yoga" },
+            { "sanskrit": "kRishhNo", "english": "Krishna is" },
+            { "sanskrit": "yatra", "english": "wherever" },
+            { "sanskrit": "paartho", "english": "Partha (Arjuna)" },
+            { "sanskrit": "dhanurdharaH", "english": "the archer is" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "tatra", "english": "there" },
+            { "sanskrit": "shriir", "english": "prosperity" },
+            { "sanskrit": "vijayo", "english": "victory" },
+            { "sanskrit": "bhuutir", "english": "power" },
+            { "sanskrit": "dhruvaa", "english": "firm" },
+            { "sanskrit": "niitir", "english": "morality" },
+            { "sanskrit": "matir", "english": "is my" },
+            { "sanskrit": "mama", "english": "conviction" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 30,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "shrii bhagavaan", "english": "The Glorious Lord" },
+            { "sanskrit": "uvaacha", "english": "said" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "ananyaa.sh", "english": "With no other thought" },
+            { "sanskrit": "chintayanto", "english": "thinking" },
+            { "sanskrit": "maaM", "english": "of Me" },
+            { "sanskrit": "ye", "english": "those" },
+            { "sanskrit": "janaaH", "english": "people" },
+            { "sanskrit": "paryupaasate", "english": "who worship" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "teshhaam", "english": "to them" },
+            { "sanskrit": "nityaabhi.yuktaanaaM", "english": "who are ever steadfast" },
+            { "sanskrit": "yogakshemaM", "english": "well-being and prosperity" },
+            { "sanskrit": "vahaamyaham", "english": "I carry (provide)" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 31,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "paritraaNaaya", "english": "For the protection" },
+            { "sanskrit": "saadhoonaaM", "english": "of the good" },
+            { "sanskrit": "vinaashaaya", "english": "and for the destruction" },
+            { "sanskrit": "cha", "english": "and" },
+            { "sanskrit": "dushha kRitaam", "english": "of the wicked" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "dharma", "english": "of Dharma" },
+            { "sanskrit": "saMsthaapanaarthaaya", "english": "for the sake of establishing" },
+            { "sanskrit": "saMbhavaami", "english": "I come into being" },
+            { "sanskrit": "yuge", "english": "in age" },
+            { "sanskrit": "yuge", "english": "after age" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 32,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "aartaa", "english": "The distressed" },
+            { "sanskrit": "vishhaNNaaH", "english": "the despondent" },
+            { "sanskrit": "shithilaashcha", "english": "and the weakened" },
+            { "sanskrit": "bhiitaaH", "english": "the fearful" },
+            { "sanskrit": "ghoreshhu", "english": "in terrible" },
+            { "sanskrit": "cha", "english": "and" },
+            { "sanskrit": "vyaadhishhu", "english": "in diseases" },
+            { "sanskrit": "varttamaanaaH", "english": "who are" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "sa.nkiirtya", "english": "by merely chanting" },
+            { "sanskrit": "naaraayaNa", "english": "Narayana" },
+            { "sanskrit": "shabda", "english": "the word" },
+            { "sanskrit": "maatraM", "english": "only" },
+            { "sanskrit": "vimukta", "english": "freed from" },
+            { "sanskrit": "duHkhaaH", "english": "sorrows" },
+            { "sanskrit": "sukhino", "english": "happy" },
+            { "sanskrit": "bhavanti", "english": "they become" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": 33,
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "kaayena", "english": "By the body" },
+            { "sanskrit": "vaacaa", "english": "by speech" },
+            { "sanskrit": "manasEndriyairvaa", "english": "by the mind or by the senses" },
+            { "sanskrit": "buddhya", "english": "by the intellect" },
+            { "sanskrit": "aatmanaavaa", "english": "or by the self" },
+            { "sanskrit": "prakrteh", "english": "from nature's" },
+            { "sanskrit": "svabhaavaat", "english": "own disposition" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "karOmi", "english": "I do" },
+            { "sanskrit": "yadyat", "english": "whatever" },
+            { "sanskrit": "sakalam", "english": "all" },
+            { "sanskrit": "parasmai", "english": "to the Supreme" },
+            { "sanskrit": "naaraayanaayEti", "english": "to Narayana" },
+            { "sanskrit": "samarpayaamI", "english": "I offer" }
+          ]
+        }
+      ]
+    },
+    {
+      "verseNumber": "Colophon",
+      "lines": [
+        {
+          "words": [
+            { "sanskrit": "Iti", "english": "Thus" },
+            { "sanskrit": "shriimahabHaarate", "english": "in the glorious Mahabharata" },
+            { "sanskrit": "shatsahsrikaayaaM", "english": "of one hundred thousand verses" },
+            { "sanskrit": "samhitaayaaM", "english": "in the compilation" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "Viiyaashikyaam", "english": "authored by Vyasa" },
+            { "sanskrit": "nushaasanparVaantargataa", "english": "within the Anushasana Parva (Book of Instructions)" },
+            { "sanskrit": "nushaashanikparvaanNi", "english": "in the Anushasanika Parva" }
+          ]
+        },
+        {
+          "words": [
+            { "sanskrit": "bhiishmayudhistaraSamvaade", "english": "in the dialogue between Bhishma and Yudhishthira" },
+            { "sanskrit": "ShriivishNursahasra", "english": "the glorious Vishnu's thousand" },
+            { "sanskrit": "Naamastootram", "english": "name hymn" },
+            { "sanskrit": "sampoorNam", "english": "is completed" }
+          ]
+        }
+      ]
+    }
+  ]
+}
